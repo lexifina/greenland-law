@@ -1,0 +1,1 @@
+I henhold til lov nr. 372 af 23. december 1964 om valutaforhold m.v., jf. lovbekendtgørelse nr. 279 af 11. april 1988, samt kgl. anordning nr. 149 af 5. maj 1967 om ikraftsættelse i Grønland af lov om valutaforhold m.v. fastsættes:
