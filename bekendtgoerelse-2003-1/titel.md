@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om landets inddeling i sundhedsdistrikter
