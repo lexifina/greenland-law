@@ -1,0 +1,1 @@
+I medfør af § 5, stk. 4 og § 8, stk. 3 i Landstingsforordning nr. 11 af 16. december 1988 om arbejdsformidling og § 6, stk. 4 og § 8 i Landstingslov nr. 27 af 30. oktober 1992 om regulering af arbejdskrafttilgangen i Grønland fastsættes:
