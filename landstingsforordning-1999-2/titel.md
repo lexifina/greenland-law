@@ -1,0 +1,1 @@
+Landstingsforordning om erhvervsuddannelser og erhvervsuddannelseskurser
