@@ -1,0 +1,1 @@
+I henhold til § 16 i landstingslov nr. 11 af 21. november 1984 om erhvervsmæssigt fiskeri, og §§ 6 og 7 i landstingslov nr. 12 af 22. november 1984 om erhvervsmæssig fangst og jagt fastsættes følgende:
