@@ -1,0 +1,1 @@
+Landstingsforordning om elektriske stærkstrømsanlæg og elektrisk materiel
