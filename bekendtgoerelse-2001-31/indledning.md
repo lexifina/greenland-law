@@ -1,0 +1,1 @@
+I medfør af § 16, stk. 3 i Landstingsforordning nr. 10 af 28. oktober 1993 som ændret ved Landstingsforordning nr. 12 af 6. november 1997 om telekommunikation og teletjenester, og efter aftale af 3. juli 2001 med regeringen, fastsættes:

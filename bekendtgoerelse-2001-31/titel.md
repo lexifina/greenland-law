@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om ikraftsættelse af Landstingsforordning om telekommunikation og teletjenester, for de dansk-amerikanske forsvarsområder, der er oprettet i henhold til traktat af 27. april 1951
