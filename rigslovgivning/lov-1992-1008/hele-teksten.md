@@ -1,0 +1,3 @@
+Våbenlov for Grønland
+
+
