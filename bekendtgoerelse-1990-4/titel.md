@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om ansættelse af medarbejdere ved Ilisimatusarfik
