@@ -1,0 +1,1 @@
+Landstingslov om landsstyremedlemmers ansvarlighed
