@@ -1,0 +1,1 @@
+I medfør af §§ 1, 9 og 13 i lov for Grønland nr. 469 af 6. november 1985 om forsyning, trafik, postbesørgelse m.v.; §§ 1, 4 og 13 i lov for Grønland nr. 943 af 23. december 1986 om el, vand, brandvæsen, havne, veje, telekommunikation m.v. samt §§ 1 og 2 i lov for Grønland nr. 1075 af 22. december 1993 om vandkraftressourcer fastsættes følgende:
