@@ -1,0 +1,1 @@
+I henhold til § 4, stk. 3, i landstingsforordning nr. 5 af 28. oktober 1982 om tilskud til elever, der er optaget i folkeskolens ældste klasser, fastsættes herved efter forhandling med Socialdirektoratet følgende regler for, hvornår en i skolen indmeldt elev kan betragtes som studieaktiv:
