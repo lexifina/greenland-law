@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om eksport og import af vilde dyr og planter mv. omfattet af konventionen af 3. marts 1973 om international handel med udryddelsestruede vilde dyr og planter (Washingtonkonventionen/CITES)
