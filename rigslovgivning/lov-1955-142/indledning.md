@@ -1,0 +1,1 @@
+Herved bekendtgøres lov nr. 142 af 29. april 1955 om arbejdstageres opfindelser med de ændringer, der følger af lov nr. 479 af 20. december 1967, lov nr. 555 af 17. december 1971 og lov nr. 250 af 12. juni 1975.
