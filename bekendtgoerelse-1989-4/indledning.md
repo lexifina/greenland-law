@@ -1,0 +1,1 @@
+I medfør af § 6 i landstingsforordning nr. 8 af 7. maj 1988 om styrelsen af kultur- og undervisningsvirksomhed og § 10 i landstingsforordning nr. 6 af 16. oktober 1979 om folkeskolen fastsættes efter forhandling med De grønlandske kommuners Landsforening herved følgende bestemmelser:

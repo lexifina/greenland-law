@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om kollegiepladser for folkeskolens elever
