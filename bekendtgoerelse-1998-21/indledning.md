@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 5, § 11 og § 15, stk. 2 i landstingsforordning nr. 17. af 28. oktober 1993 om kontrol med levnedsmidler og zoonoser, som ændret ved landstingsforordning nr. 7 af 2. maj 1996, fastsættes:
