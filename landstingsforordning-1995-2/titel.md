@@ -1,0 +1,1 @@
+Landstingsforordning om kommunernes indbyrdes betalingsforpligtelser
