@@ -1,7 +1,7 @@
-# Lov om mortifikation af værdipapirer
+# Bekendtgørelse af lov om mortifikation af værdipapirer
 
-Lov nr. 145 af 13. april 1938
+Lovbekendtgørelse nr. 639 af 16. september 1986
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Rigslovgivning/1938/Lov-nr-145-af-13_04_1938?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Rigslovgivning/1986/Lovbekendtgoerelse-nr-639-af-16_09_1986?sc_lang=da>

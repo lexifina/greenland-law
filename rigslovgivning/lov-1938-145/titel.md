@@ -1,1 +1,1 @@
-Lov om mortifikation af værdipapirer
+Bekendtgørelse af lov om mortifikation af værdipapirer
