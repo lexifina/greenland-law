@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om uddannelsen til sundhedsassistent

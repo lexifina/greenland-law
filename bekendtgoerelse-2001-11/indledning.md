@@ -1,0 +1,1 @@
+I medfør af, § 8, stk. 4, § 22, stk. 2, § 27, stk. 3, § 28, stk. 4, § 34 stk.2, og § 52, stk. 2 samt § 7, stk. 3 og § 12, stk. 1 og stk. 2 efter indstilling fra Brancheudvalget for Sundhedsområdet, i Landstingsforordning nr. 2 af 31.maj 1999 om erhvervsuddannelser og erhvervsuddannelseskurser fastsættes:
