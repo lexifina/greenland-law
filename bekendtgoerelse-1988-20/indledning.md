@@ -1,0 +1,1 @@
+I medfør af § 29 stk. 1 og stk. 2 i Landstingsforordning nr. 7 af 16. oktober 1979 med senere ændring fastsættes hermed følgende regler for lokaler og udendørsanlæg til børne- og ungdomsorganisationer i de enkelte kommuner.
