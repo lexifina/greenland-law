@@ -1,0 +1,1 @@
+I medfør af Landstingslov nr. 10 af 13. november 1986 § 24 om forbrugerråd, markedsføring, mærkning, priser og forbrugerklageudvalg, som ændret ved landstingslov nr. 14 af 31. oktober 1996 fastsættes følgende:
