@@ -1,0 +1,1 @@
+I medfør af § 14 i lov nr. 15 af 13. januar 1997 om skibes besætning og efter samråd med Danmarks Fiskeriforening, Specialarbejderforbundet i Danmark, Dansk Sejlunion, Danmarks Motorbåds Union, Danmarks Tursejler-Forening, Foreningen til Langtursejladsens Fremme og Søsportens Brancheforening fastsættes:
