@@ -1,0 +1,1 @@
+Lov om et skibsfinansieringsinstitut
