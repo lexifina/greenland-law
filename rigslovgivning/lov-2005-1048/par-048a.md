@@ -1,0 +1,1 @@
+§ 48 a. Beskæftigelsesministeren kan i øvrigt fastsætte regler om, at § 47, stk. 1, 3 og 4, kan fraviges i de i § 42 nævnte tilfælde for unge, som er fyldt 15 år, og som ikke længere er omfattet af undervisningspligten.
