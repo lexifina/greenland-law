@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om varetagelse af bevaringshensyn i kommuneplanlægningen
