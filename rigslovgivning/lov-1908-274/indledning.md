@@ -1,0 +1,1 @@
+VI FREDERIK DEN OTTENDE, af Guds Naade Konge til Danmark, de Venders og Goter, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, GØRE VITTERLIGT: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
