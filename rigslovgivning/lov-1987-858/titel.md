@@ -1,0 +1,1 @@
+Lov om Industriministeriets Erhvervsankenævn
