@@ -1,0 +1,1 @@
+I medfør af § 1, stk. 2 i landstingslov nr. 8 af 13. juni 1994 om sagsbehandling i den offentlige forvaltning og § 1, stk. 2 i landstingslov nr. 9 af 13. juni 1994 om offentlighed i forvaltningen fastsættes:
