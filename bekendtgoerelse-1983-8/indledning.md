@@ -1,0 +1,1 @@
+I henhold til § 2, jvf. § 21, i landstingslov nr. 11 af 12. november 1980 om naturfredning i Grønland samt under henvisning til rådets direktiv (EØF) nr. 83/129 af 28. marts 1983 om indførsel i fællesskabet af visse sælungeskind og varer heraf fastsættes:
