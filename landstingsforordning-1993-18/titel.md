@@ -1,0 +1,1 @@
+Landstingsforordning om Misissueqqarnerit/Grønlands Forundersøgelser
