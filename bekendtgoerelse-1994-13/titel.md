@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om udlejning af huse, hvortil der er ydet lån efter kapitel 4 i landstingsforordning om støtte til boligbyggeri.
