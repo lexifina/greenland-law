@@ -1,0 +1,1 @@
+Landstingsforordning om socialvæsenets styrelse og organisation
