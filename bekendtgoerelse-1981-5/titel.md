@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om forretningsorden for landsplanudvalget
