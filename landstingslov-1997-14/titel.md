@@ -1,0 +1,1 @@
+Landstingslov om Oqaatsinik Pikkorissarfik
