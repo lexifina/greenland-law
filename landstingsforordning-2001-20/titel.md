@@ -1,0 +1,1 @@
+Landstingsforordning om civile foranstaltninger mod smitsomme sygdomme
