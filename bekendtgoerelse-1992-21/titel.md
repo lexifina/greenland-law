@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om studerende ved Grønlands gymnasiale uddannelser
