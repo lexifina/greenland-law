@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om afmærkning af fiskerfartøjer
