@@ -1,1 +1,0 @@
-§ 20 a. Uanset det i § 20, stk. 1, anførte kan en ansat nægte at tage imod en anvist personalebolig, hvis boligen er optaget i udlejers register over udlejningsboliger, der tidligere har været angrebet af skimmelsvamp, jf. § 32 a, uden derved at miste retten til anvist personalebolig, vakant godtgørelse eller fortsat indkvartering på arbejdsgivers regning.
