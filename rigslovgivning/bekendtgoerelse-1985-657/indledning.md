@@ -1,0 +1,1 @@
+I medfør af § 4, stk. 2 og 3, og § 5, stk. 3, i lov om kontinentalsoklen, jfr. lovbekendtgørelse nr. 182 af 1. maj 1979, og § 5 i lov om skibsfartens betryggelse, jfr. lovbekendtgørelse nr. 309 af 3. august 1965, fastsættes efter samråd med industriministeren:
