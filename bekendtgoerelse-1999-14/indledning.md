@@ -1,0 +1,1 @@
+I medfør af § 48 i Landstingslov nr. 20 af 3. november 1994 om kommunalbestyrelser og bygdebestyrelser m.v. som ændret ved Landstingslov nr. 6 af 12. juni 1995, fastsættes om revision af Hjemmestyrets konti i kommunernes regnskaber:
