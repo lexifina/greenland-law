@@ -1,0 +1,1 @@
+Landstingslov om Det Grønlandske Erhvervsregister
