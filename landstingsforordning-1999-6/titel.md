@@ -1,0 +1,1 @@
+Landstingsforordning om Grønlands Fiskeriundersøgelsers organisation og virksomhed
