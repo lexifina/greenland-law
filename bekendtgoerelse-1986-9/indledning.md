@@ -1,0 +1,1 @@
+I medfør af landstingslov nr. 20 af 17. december 1985 om lønnings- og pensionsforhold m.v. for tjenestemænd ansat under Grønlands Hjemmestyre i Danmark, § 2, stk. 6, faststættes herved følgende bestemmelser om sammensætning af lønningsrådet:

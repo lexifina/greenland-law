@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om sammensætning af lønningsrådet vedrørende Grønlands Hjemmestyres tjenestemænd i Danmark
