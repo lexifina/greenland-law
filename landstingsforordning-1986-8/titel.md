@@ -1,0 +1,1 @@
+Landstingsforordning vedrørende Grønlands tekniske Organisation
