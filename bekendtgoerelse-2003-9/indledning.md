@@ -1,0 +1,1 @@
+I medfør af § 11, stk. 6 i Landstingsforordning nr. 5 af 31. maj 2001 om leje af boliger som ændret ved landstingsforordning nr. 2 af 21. maj 2002, § 7, stk. 4 i Landstingsforordning nr. 5 af 21. maj 2002 om omdannelse af Hjemmestyrets og kommunernes udlejningsboliger til ejerboliger, og § 23, stk. 4 i Landstingsforordning nr. 1 af 31. oktober 1991 om andelsboliger fastsættes:
