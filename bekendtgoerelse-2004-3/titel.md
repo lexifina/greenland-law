@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om fiskeriobservatørers opgaver og beføjelser

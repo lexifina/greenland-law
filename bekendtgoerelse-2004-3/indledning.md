@@ -1,0 +1,1 @@
+I medfør af § 26, stk. 1, § 27, stk. 6, § 29, stk. 2 og 3 samt § 33, stk. 2 i landstingslov nr. 18 af 31. oktober 1996, som ændret ved landstingslov nr. 12 af 6. november 1997 og landstingslov nr. 6 af 20. maj 1998 samt efter drøftelse med Grønlands Kommando og Politimesteren i Grønland, fastsættes:
