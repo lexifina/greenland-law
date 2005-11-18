@@ -1,0 +1,1 @@
+Hermed bekendtgøres lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979 med de ændringer, der følger af § 46 i lov nr. 357 af 6. juni 1991, § 2 i lov nr. 484 af 12. juni 1996, § 1 i lov nr. 187 af 12. marts 1997, § 3 i lov nr. 317 af 3. juni 1998, § 7 i lov nr. 447 af 31. maj 2000 og § 1 lov nr. 1276 af 20. december 2000.
