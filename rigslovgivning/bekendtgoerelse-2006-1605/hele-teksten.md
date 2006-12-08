@@ -1,0 +1,3 @@
+Bekendtgørelse om brugsmodelansøgningers og registrerede brugsmodellers behandling
+
+Link til Retsinformation
