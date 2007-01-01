@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om skattemæssige afskrivninger med videre
