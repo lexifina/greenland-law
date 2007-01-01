@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om forskudsregistrering, selvangivelse og skatternes afregning
