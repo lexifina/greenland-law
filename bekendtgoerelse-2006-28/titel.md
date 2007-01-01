@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om opkrævning af indkomstskat og arbejdsmarkedsafgift
