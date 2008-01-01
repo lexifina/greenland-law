@@ -1,0 +1,1 @@
+I medfør af § 1 a, stk. 2, og § 7 i lov om udgivelsen af en Lovtidende og en Ministerialtidende, jf. lovbekendtgørelse nr. 842 af 16. december 1991, som ændret ved lov nr. 305 af 19. april 2006, fastsættes:
