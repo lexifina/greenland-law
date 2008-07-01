@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om meddelelse til Konkurrencetilsynet om fusioner, virksomhedsovertagelser og sammenlægninger af virksomheder
