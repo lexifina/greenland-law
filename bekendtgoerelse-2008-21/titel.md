@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om tilskud til kurser på erhvervsuddannelsesområdet
