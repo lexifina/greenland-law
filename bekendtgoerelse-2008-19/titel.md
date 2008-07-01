@@ -1,0 +1,1 @@
+Hjemmestyrets bekendtgørelse om kommunernes pligt til at forelægge en erhvervsmæssig investering i henhold til landstingslov om kommunernes mulighed for at bidrage til erhvervsudviklingen gennem investering i erhvervsmæssig virksomhed m.v. for Konkurrencetilsynet
