@@ -1,0 +1,1 @@
+Bekendtgørelse for Grønland om statsautoriserede og registrerede revisorers garantistillelse og ansvarsforsikring
