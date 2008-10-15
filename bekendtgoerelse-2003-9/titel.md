@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om teknisk-økonomisk vurdering af Hjemmestyrets og kommunernes udlejningsboliger
