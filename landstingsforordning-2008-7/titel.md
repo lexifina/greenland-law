@@ -1,0 +1,1 @@
+Landstingsforordning om arbejdstageres retsstilling ved virksomhedsoverdragelse
