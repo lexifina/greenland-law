@@ -1,0 +1,1 @@
+I medfør af § 6, § 7, stk. 1 og § 22 i landstingsforordning nr. 2 af 31. maj 1999 om erhvervsuddannelser og kurser på erhvervsuddannelsesområdet, som senest ændret ved landstingsforordning nr. 1 af 16. maj 2008, fastsættes:
