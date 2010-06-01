@@ -1,0 +1,1 @@
+I medfør af § 5, stk. 1, nr. 1, nr. 4, nr. 8 og 9, § 9, nr. 1 og nr. 2, § 16, stk. 1, § 19, § 20 § 46, og § 60, stk. 2 og stk. 4, i landstingslov nr. 29 af 18. december 2003 om naturbeskyttelse fastsættes:
