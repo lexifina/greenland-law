@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om indberetning af oplysninger om indkomstskat til skatteforvaltningen
