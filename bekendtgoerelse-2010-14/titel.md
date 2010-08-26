@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om sikkerhedszoner ved offshoreanlæg og indkvarteringsskibe
