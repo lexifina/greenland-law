@@ -1,0 +1,1 @@
+§ 21 b. Finanstilsynet kan indgå samarbejdsaftaler med en frivillig ordning, som nævnt i § 21 a, stk. 1. Samarbejdsaftalerne kan indeholde beskrivelse af det praktiske samarbejde, udveksling af oplysninger og indhentning af overtagelsestilbud.

@@ -1,0 +1,1 @@
+§ 21 c. Medlemmer af den frivillige ordnings ledelse, ansatte og den frivillige ordnings revisorer må ikke uberettiget videregive eller udnytte fortrolige oplysninger, som de er blevet bekendt med under udøvelsen af deres hverv.
