@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om honorering af og udgiftsgodtgørelse til brancheskolernes bestyrelser
