@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om kommunernes borgerbetjening på skatteområdet
