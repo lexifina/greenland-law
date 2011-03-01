@@ -1,0 +1,1 @@
+I medfør af § 28a, stk. 3 i landstingsforordning nr. 10 af 5. december 2008 om pædagogisk udviklende dagtilbud til børn i førskolealderen, som ændret ved Inatsisartutforordning nr. 4 af 19. maj 2010, fastsættes:
