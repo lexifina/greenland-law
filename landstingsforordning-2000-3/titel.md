@@ -1,1 +1,0 @@
-Landstingsforordning om sundhedsvæsenets styrelse og organisation
