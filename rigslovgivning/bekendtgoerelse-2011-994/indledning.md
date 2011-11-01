@@ -1,0 +1,1 @@
+I medfør af § 9 a, stk. 3, i lov om renter ved forsinket betaling m.v., jf. lovbekendtgørelse nr. 743 af 4. september 2002, jf. kongelig anordning nr. 991 af 14. oktober 2011, fastsættes herved følgende for Grønland:
