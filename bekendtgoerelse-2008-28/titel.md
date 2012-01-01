@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om fiskeriets bifangster
