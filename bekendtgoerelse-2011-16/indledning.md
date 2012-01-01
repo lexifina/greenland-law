@@ -1,0 +1,1 @@
+I medfør af § 9 stk. 1, § 10, stk. 1, nr. 4, §§ 26, 27 samt § 33, stk. 2 i Landstingslov nr. 18 af 31. oktober 1996 om fiskeri, ændret ved Landstingslov nr. 12 af 6. november 1997, Landstinglov nr. 6. af 20. maj. 1998, og senest ændret ved Inatsisartutlov nr. 8. af 22. november 2011, fastsættes:
