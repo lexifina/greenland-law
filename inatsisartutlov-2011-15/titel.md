@@ -1,0 +1,1 @@
+Inatsisartutlov om offentliggørelse af politiske partiers regnskaber
