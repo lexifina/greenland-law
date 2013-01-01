@@ -1,0 +1,1 @@
+Inatsisartutlov om erhvervsfremme til landbaserede erhverv
