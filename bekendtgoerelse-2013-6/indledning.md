@@ -1,0 +1,1 @@
+I medfør af § 4, stk. 2 og § 5, stk. 4 i inatsisartutlov nr. 10 af 19. maj 2010 om erhvervsuddannelser og kurser på erhvervsuddannelsesområdet, som ændret ved inatsisartutlov nr. 3 af 4. juni 2012, fastsættes:
