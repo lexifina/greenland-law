@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om ansættelse indenfor Grønlands Selvstyres udenrigstjeneste
