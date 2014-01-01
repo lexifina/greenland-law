@@ -1,0 +1,1 @@
+§ 26 c. Naalakkersuisut kan efter indstilling fra biskoppen fastsætte bestemmelser om andre uddannelsesmæssige krav, som kan træde i stedet for de i § 26 a, stk. 1, nr. 1 og nr. 2, nævnte i tilfælde af mangel på personer, der opfylder disse krav.

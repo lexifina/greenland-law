@@ -1,0 +1,1 @@
+§ 26 i. Naalakkersuisut kan fastsætte regler for fremgangsmåden ved besættelse af præstestillinger, der helt eller overvejende er oprettet med henblik på betjening af institutioner eller grupper af personer, for hvilke der ikke er oprettet menighedsrepræsentationer. Det samme gælder ved enhver ansættelse tidsbegrænset op til et år.

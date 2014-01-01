@@ -1,0 +1,1 @@
+§ 26 g. Naalakkersuisut afgør, hvem der ansættes i stillingen som præst, jf. §§ 26 e og 26 f. Ansættelse af en ansøger, der ikke er omfattet af biskoppens indstilling, kan ikke ske, før biskoppen har udtalt sig.
