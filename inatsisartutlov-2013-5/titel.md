@@ -1,0 +1,1 @@
+Inatsisartutlov om forskningsrådgivning og bevilling af forskningsmidler
