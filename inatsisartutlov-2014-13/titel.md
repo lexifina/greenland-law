@@ -1,0 +1,1 @@
+Inatsisartutlov om midlertidig Inatsisartutbevillingslov for finansåret 2015
