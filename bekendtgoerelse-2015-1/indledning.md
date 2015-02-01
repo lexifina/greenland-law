@@ -1,0 +1,1 @@
+I medfør af § 40, stk. 5, § 42, stk. 4, § 44, stk. 3, § 45, stk. 2, § 46, stk. 2, sidste pkt., § 46, stk. 3, sidste pkt., § 50, § 51, stk. 5 og § 53, stk. 2 i Inatsisartutlov nr. 13 af 22. november 2011 om den gymnasiale uddannelse, fastsættes:
