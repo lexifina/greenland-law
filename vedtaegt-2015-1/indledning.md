@@ -1,0 +1,1 @@
+I medfør af § 13, stk.1, og § 28, stk. 2 og 4, i landstingslov nr. 18 af 30. oktober 1998 om slædehunde samt hunde- og kattehold, som senest ændret ved Inatsisartutlov nr. 23 af 22. november 2011, fastsættes:
