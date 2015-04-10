@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 2, og § 14 i Landstingsforordning nr. 10 af 14. november 2004 om tobak og sikring af røgfrie miljøer, samt mærkning af tobaksvarer, som er ændret ved Inatsisartutforordning nr. 6 af 26. maj 2010 fastsættes:
