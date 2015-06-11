@@ -1,0 +1,3 @@
+____________________________________________________
+
+Hermann Berthelsen, Borgmester i Qeqqata Kommunia
