@@ -1,1 +1,0 @@
-Selvstyrets bekendtgørelse om indsendelse af fiskerioplysninger
