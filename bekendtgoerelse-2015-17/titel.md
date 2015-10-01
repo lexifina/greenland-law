@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om kirkebogsføring og gebyropkrævning ved navneændring og visse attestudstedelser
