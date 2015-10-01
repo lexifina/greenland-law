@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om undervisningskompetence på den gymnasiale uddannelse (pædagogikumbekendtgørelsen)
