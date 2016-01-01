@@ -1,0 +1,1 @@
+I medfør af § 5 a, stk. 1, i lov om Geodatastyrelsen, jf. lovbekendtgørelse nr. 1210 af 9. oktober 2013, og § 5 a, stk. 1, i lov om Geodatastyrelsen, jf. lovbekendtgørelse nr. 131 af 28. januar 2010, som ændret ved lov nr. 1392 af 23. december 2012, som sat i kraft for Grønland ved kongelig anordning nr. 1739 af 18. december 2015, fastsættes:
