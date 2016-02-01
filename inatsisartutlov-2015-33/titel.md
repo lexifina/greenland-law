@@ -1,0 +1,1 @@
+Inatsisartutlov om ioniserende stråling og strålebeskyttelse
