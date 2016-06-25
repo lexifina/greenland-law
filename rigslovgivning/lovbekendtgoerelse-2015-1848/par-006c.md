@@ -1,0 +1,1 @@
+§ 6 c. Modregning mellem på den ene side krav, der tilkommer eller påhviler Kongeriget Danmarks Fiskeribank, og på den anden side statens fordringer og forpligtelser kan foretages i samme omfang, som hvis kravene henholdsvis tilkom eller påhvilede staten.
