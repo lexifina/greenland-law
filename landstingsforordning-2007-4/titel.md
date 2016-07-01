@@ -1,1 +1,0 @@
-Landstingsforordning om førtidspension
