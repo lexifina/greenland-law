@@ -1,0 +1,1 @@
+Bekendtgørelse for Grønland om centralmyndigheden for internationale konventioner om forældreansvar

@@ -1,0 +1,1 @@
+I medfør af § 3, stk. 2, i lov om international fuldbyrdelse af forældremyndighedsafgørelser m.v. (internationale børnebortførelser), som sat i kraft for Grønland ved anordning nr. 677 af 6. juni 2016, og § 2 i lov om Haagerbørnebeskyttelseskonventionen, som sat i kraft for Grønland ved anordning nr. 678 af 6. juni 2016, fastsættes:
