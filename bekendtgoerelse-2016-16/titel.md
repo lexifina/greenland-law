@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om anden kulturarvsbeskyttelse af et kulturhistorisk område i Sydgrønland, der består af afgrænsede arealer omkring lokaliteterne Qassiarsuk, Igaliku, Sissarluttoq, Tasikuluulik og Qaqortukulooq-Upernaviarsuk

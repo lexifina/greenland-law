@@ -1,0 +1,1 @@
+I medfør af § 24, stk. 5 og § 32, i Inatsisartutlov nr. 11 af 19. maj 2010 om fredning og anden kulturarvsbeskyttelse af kulturminder og efter indstilling herom fra Grønlands Nationalmuseum og Arkiv fastsættes:
