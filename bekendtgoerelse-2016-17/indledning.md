@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 1, nr. 6, § 11, § 66, stk. 3 og § 67, stk. 1 i Inatsisartutlov nr. 9 af 22. november 2011 om beskyttelse af miljøet, som ændret ved Inatsisartutlov nr. 1 af 29. maj 2012, fastsættes:
