@@ -1,0 +1,1 @@
+I medfør af § 5, stk. 1, nr. 4 og 6 til 9, § 11, § 16, § 39, stk. 5, § 49 og § 63 i Landstingslov nr. 29 af 18. december 2003 om naturbeskyttelse, § 15, stk. 4 i Landstingslov nr. 12 af 29. oktober 1999 om fangst og jagt og §§ 17 til 19, §§ 127 til 128 og §§ 166 til 170 i Kriminallov for Grønland fastsættes:
