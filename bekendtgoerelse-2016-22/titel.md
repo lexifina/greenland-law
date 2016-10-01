@@ -1,1 +1,0 @@
-Selvstyrets bekendtgørelse om arkivalier

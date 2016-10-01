@@ -1,1 +1,0 @@
-I medfør af § 8, § 10, § 11, stk. 1 og § 13, stk. 2 i Inatsisartutlov nr. 5 af 3. juni 2015 om arkivvæsen og efter forhandling med Grønlands Nationalmuseum og Arkiv og De Grønlandske Kommuners Landsforening, KANUKOKA, fastsættes:
