@@ -1,0 +1,1 @@
+I medfør af § 8 b, stk. 1, i lov om Kongeriget Danmarks Fiskeribank, jf. lovbekendtgørelse nr. 779 af 23. juni 2016, fastsættes efter bemyndigelse i henhold til § 5, stk. 1, nr. 15, i bekendtgørelse nr. 512 af 23. april 2015 om NaturErhvervstyrelsens opgaver og beføjelser:

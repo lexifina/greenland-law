@@ -1,0 +1,1 @@
+Bekendtgørelse om gebyrer for ekspedition af Udbetaling Danmarks statslige finansforvaltningsopgaver vedrørende fiskeribanklån
