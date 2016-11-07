@@ -1,0 +1,1 @@
+I medfør af § 26, stk. 1, nr. 2 og 3, og § 27, stk. 3, i Landstingslov nr. 11 af 11. november 2000 om salg og udskænkning af alkoholholdige drikke, som ændret ved Landstingslov nr. 3. af 21. maj 2001, fastsættes:
