@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 5, § 5, § 14, stk. 4, § 28, stk. 2, § 34, stk. 5 og § 35, stk. 2, i Inatsisartutlov nr. 12 af 22. november 2011 om uddannelsesstøtte og efter høring af de grønlandske uddannelsessøgendes organisationer, fastsættes:
