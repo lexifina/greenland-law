@@ -1,0 +1,1 @@
+Inatsisartutlov om valg til kommunalbestyrelser, bygdebestyrelser og menighedsrepræsentationer
