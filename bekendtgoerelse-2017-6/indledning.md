@@ -1,0 +1,1 @@
+I medfør af § 18, stk. 2, § 19, stk. 3 og § 20, stk. 3 i Inatsisartutlov nr. 30 af 28. november 2016 om ændring af strukturreform af den kommunale sektor samt § 41, stk. 5 og § 47, stk. 3 i Inatsisartutlov nr. 22 af 18. november 2010 om den kommunale styrelse fastsættes:
