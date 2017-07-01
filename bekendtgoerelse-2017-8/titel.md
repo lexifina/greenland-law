@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om ophævelse af Hjemmestyrets bekendtgørelse om tilbagebetaling af støtte, der er ydet til nærmere bestemte offentligt ejede virksomheder og Hjemmestyrets bekendtgørelse om beregning af omsætning med videre i landstingslov om konkurrence
