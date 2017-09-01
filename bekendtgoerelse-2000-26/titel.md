@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om uddannelse af socialrådgivere
