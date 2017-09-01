@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om uddannelsen til sygeplejerske og sundhedsassistent
