@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om kandidatuddannelser ved Institut for Uddannelsesvidenskab på Ilisimatusarfik
