@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om fremgangsmåden ved besættelse af præstestillingen i Ittoqqortoormiit
