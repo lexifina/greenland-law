@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om regnskabsaflæggelse for Grønlands Selvstyres nettostyrede virksomheder
