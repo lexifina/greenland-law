@@ -1,0 +1,1 @@
+I medfør af §§ 24, stk. 5 og 32, stk. 1 i Inatsisartutlov nr. 11 af 19. maj 2010 om fredning og anden kulturarvsbeskyttelse af kulturminder og efter indstilling herom fra Grønlands Nationalmuseum og Arkiv og i medfør af § 21, stk. 2 Inatsisartutlov nr. 17 af 17. november 2010 om planlægning og arealanvendelse fastsættes:
