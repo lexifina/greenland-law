@@ -1,0 +1,1 @@
+I medfør af § 51, stk. 3, og § 164, stk. 4, i årsregnskabsloven, som sat i kraft for Grønland ved kongelig anordning nr. 625 af 23. juni 2008, som ændret ved kongelig anordning nr. 487 af 14. maj 2018, fastsættes:
