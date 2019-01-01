@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om den grønlandske kateketuddannelse
