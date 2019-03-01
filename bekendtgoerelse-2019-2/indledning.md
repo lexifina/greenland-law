@@ -1,0 +1,1 @@
+I medfør af § 17, stk. 1 og 2, § 18, stk. 1 og 2 § 18 a og § 83 i landstingslov nr. 11 af 2. november 2006 om forvaltning af skatter, som ændret ved inatsisartutlov nr. 11 af 1. juni 2017, fastsættes:
