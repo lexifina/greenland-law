@@ -1,0 +1,1 @@
+I medfør af Landstingsforordning nr. 11 af 12. november 2001 om socialvæsenets styrelse og organisation § 1, stk. 2, samt Inatsisartutlov nr. 20 af 26. juni 2017 om støtte til børn § 8, stk. 6, § 11, stk. 5, og § 37, stk. 7, fastsættes:
