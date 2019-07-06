@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om normalvedtægt for andelsboligforeninger
