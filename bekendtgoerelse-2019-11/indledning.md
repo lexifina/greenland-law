@@ -1,0 +1,1 @@
+I medfør af § 7, stk. 3, § 8, stk. 3, § 12, stk. 2, § 15, stk. 3 og § 36, stk. 3, i Inatsisartutlov nr. 13 af 6. juni 2016 om anmeldelse af fødsler og dødsfald, begravelse og kirkegårde, og efter samråd med Biskoppen, fastsættes:
