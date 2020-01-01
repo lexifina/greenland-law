@@ -1,0 +1,1 @@
+I medfør af § 6, stk. 1 i landstingsforordning nr. 12 af 3. november 1994 om elektriske anlæg, elektriske installationer og elektrisk materiel, som ændret ved Inatsisartutlov nr. 19 af 12. juni 2019, fastsættes af Grønlands Elmyndighed:
