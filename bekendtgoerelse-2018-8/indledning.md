@@ -1,1 +1,0 @@
-I medfør af § 11, stk. 4, § 12, stk. 4, § 15, § 17, stk. 1 og 20, stk. 2 i landstingsforordning nr. 7 af 3. november 1994 om hjælp til personer med vidtgående handicap, som senest ændret ved Inatsisartutforordning nr. 10 af 31. maj 2010, fastsættes:
