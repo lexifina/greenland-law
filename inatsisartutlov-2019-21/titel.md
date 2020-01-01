@@ -1,0 +1,1 @@
+Inatsisartutlov om forlængelse af frister for vedtagelse af finanslov for 2020, fastsættelse af udskrivningsprocent for landsskat, særlig landsskat og kommunalskat for 2020, samt af takster for 2020 for ophold i kommunale dagtilbud til børn i førskolealderen
