@@ -1,0 +1,1 @@
+Inatsisartutlov om registrerede socialøkonomiske virksomheder
