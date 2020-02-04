@@ -1,0 +1,1 @@
+§ 8 a. Naalakkersuisut kan efter indhentet udtalelse fra Datatilsynet fastsætte nærmere regler om Grønlands Nationalmuseum og Arkivs opbevaring af materiale af den art, der er omfattet af Anordning om ikrafttræden for Grønland af lov om behandling af personoplysninger.

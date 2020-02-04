@@ -1,0 +1,1 @@
+§ 21 a. Grønlands Nationalmuseum og Arkiv kan i konkrete tilfælde meddele tilladelse til benyttelse af dokumenter, arkivenheder eller grupper af arkivenheder, som er afleveret til Grønlands Nationalmuseum og Arkiv, inden udløbet af tilgængelighedsfristerne, jf. dog § 21 b og c.

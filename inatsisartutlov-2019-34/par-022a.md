@@ -1,0 +1,1 @@
+§ 22 a. Naalakkersuisut kan efter indhentet udtalelse fra Datatilsynet fastsætte regler om vilkår for brugen af oplysninger af den art, der er omfattet af Anordning om ikrafttræden for Grønland af lov om behandling af personoplysninger.
