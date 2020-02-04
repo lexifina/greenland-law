@@ -1,7 +1,7 @@
-# Inatsisartutlov om Børnetalsmand og Børneråd
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om Børnetalsmand og Børneråd
 
-Inatsisartutlov nr. 11 af 22. november 2011
+Selvstyrets lovbekendtgørelse nr. 1 af 4. februar 2020
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2011/ltl-11-2011?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-01-2020?sc_lang=da>
