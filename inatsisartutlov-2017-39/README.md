@@ -1,7 +1,7 @@
-# Inatsisartutlov om boligfinansiering
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om boligfinansiering
 
-Inatsisartutlov nr. 39 af 23. november 2017
+Selvstyrets lovbekendtgørelse nr. 5 af 7. februar 2020
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-39-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-05-2020?sc_lang=da>

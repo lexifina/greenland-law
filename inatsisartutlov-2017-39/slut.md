@@ -1,3 +1,5 @@
-Grønlands Selvstyre den 23. november 2017
+/
 
-Kim Kielsen
+Jeanette Holding
+
+[1] Lovændringen vedrører §§1-3, § 24 a og § 24 b.
