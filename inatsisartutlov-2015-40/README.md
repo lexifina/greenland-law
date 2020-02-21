@@ -1,7 +1,7 @@
-# Inatsisartutlov om førtidspension
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om førtidspension
 
-Inatsisartutlov nr. 40 af 9. december 2015
+Selvstyrets lovbekendtgørelse nr. 7 af 21. februar 2020
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2015/L-40-2015?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-07-2020?sc_lang=da>

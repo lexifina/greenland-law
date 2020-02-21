@@ -1,0 +1,1 @@
+§ 7 c. Tilflyttende førtidspensionister fra Danmark og tilflyttende førtidspensionister på højeste sats fra Færøerne med ingen eller næsten ingen arbejdsevne tilkendes automatisk højeste førtidspension i den grønlandske tilflytningskommune.
