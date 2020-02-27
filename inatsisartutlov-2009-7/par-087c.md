@@ -1,0 +1,1 @@
+§ 87 c. Naalakkersuisut skal i løbet af høringsperioden afholde offentlige høringsmøder i byer og bygder, der særligt berøres af aktiviteterne. Såfremt aktiviteterne geografisk befinder sig fjernt fra byer og bygder eller uden for den kommunale inddeling, beslutter Naalakkersuisut i hvilke byer og bygder, der skal afholdes offentlige høringsmøder.

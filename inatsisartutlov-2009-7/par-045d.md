@@ -1,0 +1,1 @@
+§ 45 d. Naalakkersuisut kan fastsætte nærmere bestemmelser vedrørende indsamling af løstliggende mineraler og brydning af mineraler efter §§ 45-45 a, herunder om forarbejdning, opbevaring, deponering, transport, handel, eksport, import og certificering.

@@ -1,0 +1,7 @@
+§ 36 a. Naalakkersuisut fører tilsyn med og afgør, om planlagte og udførte aktiviteter efter en småskalatilladelse er småskala råstofaktiviteter eller er almindelige råstofaktiviteter, som kun må udføres efter en almindelig tilladelse til forundersøgelse, efterforskning efter eller udnyttelse af mineraler efter §§ 15 eller 16 og 29.
+
+Stk. 2. Hvis planlagte råstofaktiviteter efter en ansøgt småskalatilladelse ikke er småskala råstofaktiviteter, skal Naalakkersuisut afvise en ansøgning om meddelelse af en småskalatilladelse og henvise ansøgeren til at ansøge om meddelelse af en almindelig tilladelse efter §§ 15 eller 16 og 29.
+
+Stk. 3. Hvis planlagte eller udførte råstofaktiviteter efter en meddelt småskalatilladelse ikke er småskala råstofaktiviteter, kan Naalakkersuisut tilbagekalde småskalatilladelsen og henvise ansøgeren til at ansøge om meddelelse af en almindelig tilladelse efter §§ 15 eller 16 og 29. Rettighedshaveren efter en småskalatilladelse kan ikke rette erstatningskrav eller andre krav mod Naalakkersuisut på grundlag af en tilbagekaldelse af småskalatilladelsen eller tab som følge deraf.
+
+Stk. 4. Naalakkersuisut kan fastsætte nærmere bestemmelser, vilkår og træffe afgørelse om forholdene nævnt i stk. 1-3, herunder om nærmere forhold og kriterier af betydning for afgørelsen efter stk. 1, om forhold vedrørende tilbagekaldelse af en småskalatilladelse efter stk. 3 og om rettighedshaverens eventuelle ret til meddelelse af en almindelig tilladelse efter §§ 15 eller 16 og 29 ved rettighedshaverens opfyldelse af alle krav og vilkår derfor

@@ -1,0 +1,5 @@
+§ 34 a. En småskalatilladelse uden eneret kan meddeles for et område, der er omfattet af en almindelig tilladelse med eneret til efterforskning efter eller udnyttelse af mineralske råstoffer efter § 16 eller en småskalatilladelse med eneret efter § 33, hvis skriftligt samtykke dertil er meddelt af rettighedshaveren efter eneretstilladelsen. Det skriftlige samtykke skal dokumenteres over for Naalakkersuisut ved indlevering af dokumentet med samtykket til Naalakkersuisut, hvis Naalakkersuisut anmoder derom.
+
+Stk. 2. Rettighedshaveren efter eneretstilladelsen efter § 16 eller § 33 kan tilbagekalde samtykket efter stk. 1 ved meddelelse derom til rettighedshaveren efter småskalatilladelsen uden eneret. Efter tilbagekaldelsen omfatter småskalatilladelsen uden eneret ikke området, der er omfattet af eneretstilladelsen.
+
+Stk. 3. Rettighedshaveren efter småskalatilladelsen uden eneret kan ikke rette erstatningskrav eller andre krav mod rettighedshaveren efter eneretstilladelsen eller Naalakkersuisut på grundlag af tilbagekaldelsen af et samtykke efter stk. 1 eller tab som følge deraf
