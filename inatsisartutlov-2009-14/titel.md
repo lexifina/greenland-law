@@ -1,1 +1,1 @@
-Inatsisartutlov om orlov og dagpenge ved graviditet, barsel og adoption
+Selvstyrets bekendtgørelse af Inatsisartutlov om orlov og dagpenge ved graviditet, barsel og adoption

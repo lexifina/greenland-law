@@ -1,7 +1,7 @@
-# Inatsisartutlov om orlov og dagpenge ved graviditet, barsel og adoption
+# Selvstyrets bekendtgørelse af Inatsisartutlov om orlov og dagpenge ved graviditet, barsel og adoption
 
-Inatsisartutlov nr. 14 af 7. december 2009
+Selvstyrets lovbekendtgørelse nr. 10 af 28. februar 2020
 
 Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2009/ltl-14-2009?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-10-2020?sc_lang=da>

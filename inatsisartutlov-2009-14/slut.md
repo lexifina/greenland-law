@@ -1,7 +1,5 @@
-Grønlands Selvstyre, den 7. december 2009
-
-Kuupik Kleist
-
 /
 
-Maliina Abelsen
+Trine Foldager
+
+[1] Lovændringen vedrører § 15, stk. 1 og 2.
