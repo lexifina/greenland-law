@@ -1,7 +1,7 @@
-# Inatsisartutlov om alderspension
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om alderspension
 
-Inatsisartutlov nr. 20 af 23. november 2015
+Selvstyrets lovbekendtgørelse nr. 9 af 28. februar 2020
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2015/L-20-2015?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-09-2020?sc_lang=da>
