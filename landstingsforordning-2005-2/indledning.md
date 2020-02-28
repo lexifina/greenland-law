@@ -1,1 +1,1 @@
-I medfør af lov nr. 944 af 23. december 1986 for Grønland om boligforsyning, boligstøtte, leje af boliger mv. fastsættes:
+Herved bekendtgøres landstingsforordning nr. 2 af 12. maj 2005 om leje af boliger med de ændringer, der følger af landstingsforordning nr. 14 af 20. november 2006, landstingsforordning nr. 9 af 5. december 2008, Inatsisartutlov nr. 17 af 8. juni 2017, Inatsisartutlov nr. 29 af 28. november 2019 og Inatsisartutlov nr. 42 af 12. december 2019.
