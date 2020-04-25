@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om midlertidige restriktioner for erhvervsdrivende, offentlige institutioner og transportmidler
