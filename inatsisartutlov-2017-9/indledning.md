@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 9 af 1. juni 2017 om en satstilpasningsprocent og om aktuel indkomst med de ændringer, der følger af Inatsisartutlov nr. 3 af 24. maj 2019 og Inatsisartutlov nr. 33 af 28. november 2019.

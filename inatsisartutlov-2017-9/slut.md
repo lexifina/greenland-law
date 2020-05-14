@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 1. juni 2017
+/
 
-Kim Kielsen
+Morten W. Selvejer
+
+[1] Lovændringen vedrører § 6.
+
+[2] Lovændringen vedrører § 5, stk. 3.
