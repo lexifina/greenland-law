@@ -1,1 +1,0 @@
-I medfør af § 9, stk. 3, § 24, stk. 2, § 25, stk. 9, § 26, stk. 7, § 27, stk. 2, § 28, stk. 4, § 30, stk. 3, § 37, stk. 3, § 45 og § 76, stk. 2, i Inatsisartutlov nr. 13 af 12. juni 2019 om støtte til personer med handicap, fastsættes:
