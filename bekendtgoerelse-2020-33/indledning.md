@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 4, § 8, § 9, § 11, § 12, § 13, stk. 2 og 3, § 17, stk. 2, § 18 samt § 21 i landstingslov nr. 12 af 29. oktober 1999 om fangst og jagt som senest ændret ved landstingslov nr. 1 af 16. maj 2008 og § 5, § 6, § 35, § 36 samt § 60, stk. 2 i landstingslov nr. 29 af 18. december 2003 om naturbeskyttelse og efter høring af Fangstrådet fastsættes:
