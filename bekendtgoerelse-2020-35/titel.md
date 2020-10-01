@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om kommunalbestyrelsens almindelige og pædagogiske tilsyn med kommunale daginstitutioner og selvejende daginstitutioner med kommunal driftsoverenskomst
