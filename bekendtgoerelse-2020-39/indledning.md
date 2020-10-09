@@ -1,0 +1,1 @@
+I medfør af § 5, stk. 3, § 5 a, stk. 4, § 6, § 8, stk. 3, § 9, stk. 3, § 9 a, stk. 7 og § 11, stk. 2, i inatsisartutlov nr. 20 af 3. december 2012 om erhvervsfremme af landbaserede erhverv, som ændret ved inatsisartutlov nr. 4 af 3. juni 2016 og inatsisartutlov nr. 27 af 17. november 2017, fastsættes:
