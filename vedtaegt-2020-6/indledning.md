@@ -1,0 +1,1 @@
+I medfør af § 23, stk. 2 og § 33, stk. 2 i landstingslov nr. 18 af 31. oktober 1996 om fiskeri, som senest ændret ved Inatsisartut lov nr. 28 af 28. november 2016 og § 10, stk. 2 i Selvstyrets bekendtgørelse nr. 11 af 28. august 2014 om kystnært fiskeri efter hellefisk fastsættes:
