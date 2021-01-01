@@ -1,0 +1,1 @@
+I medfør af § 8, stk. 2, § 9, stk. 1, § 10, § 10 a, § 10 b, stk. 1, § 11, stk. 1-2, § 13, stk. 2-3, § 14, stk. 5, § 21, stk. 2, § 24, § 33, stk. 2, § 34, stk. 3 og § 38, stk. 3. i landstingslov nr. 18 af 31. oktober 1996 om fiskeri, som senest ændret ved Inatsisartutlov nr. 28 af 28. november 2016, fastsættes:
