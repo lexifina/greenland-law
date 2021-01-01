@@ -1,0 +1,1 @@
+I medfør af § 10 a, § 26, stk. 1, og § 33, stk. 2, i landstingslov nr. 18 af 31. oktober 1996 om fiskeri, som ændret ved blandt andet landstingslov nr. 6 af 20. maj 1998, landstingslov nr. 5 af 21. maj 2002, landstingslov nr. 5 af 4. juni 2012, landstingslov nr. 12 af 3. december 2012 og som senest er ændret ved Inatsisartutlov nr. 18 af 3. juni 2015, fastsættes:
