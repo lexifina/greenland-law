@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 1, nr. 5, 6, 12, 20, 23 og 25, § 14, § 35, stk. 2, § 40, stk. 1 og 2, § 45, stk. 2-4, § 56, stk. 1, og § 66 stk. 3, i Inatsisartutlov nr. 9 af 22. november 2011 om beskyttelse af miljøet (miljøloven), fastsættes:
