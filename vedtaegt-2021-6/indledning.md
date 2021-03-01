@@ -1,0 +1,1 @@
+I medfør § 6, og § 7 stk. 1, § 9, stk. 1 og § 12 i Selvstyrets bekendtgørelse nr. 10 af 10. oktober 2013 om anvendelse af motoriserede befordringsmidler fastsættes:
