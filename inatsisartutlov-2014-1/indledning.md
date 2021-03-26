@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 1 af 15. maj 2014 om konkurrence, med de ændringer, der følger af Inatsisartutlov nr. 24 af 17. november 2017, Inatsisartutlov nr. 8 af 12. juni 2019 og Inatsisartutlov nr. 8 af 19. november 2020.
