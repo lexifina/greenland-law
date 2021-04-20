@@ -1,7 +1,7 @@
-# Landstingslov om landsstyremedlemmers ansvarlighed
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om Naalakkersuisutmedlemmers ansvarlighed
 
-Landstingslov nr. 6 af 13. maj 1993
+Selvstyrets lovbekendtgørelse nr. 5 af 20. april 2021
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1993/ltl-06-1993?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-05-2021?sc_lang=da>

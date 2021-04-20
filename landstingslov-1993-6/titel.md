@@ -1,1 +1,1 @@
-Landstingslov om landsstyremedlemmers ansvarlighed
+Inatsisartutlov om Naalakkersuisutmedlemmers ansvarlighed
