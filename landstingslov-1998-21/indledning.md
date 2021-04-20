@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 8. af 13. juni 1994 om sagsbehandling i den offentlige forvaltning, med de ændringer, der følger af landstingslov nr. 21 af 30. oktober 1998, landstingslov nr. 5 af 31. maj 2001 og Inatsisartutlov nr. 19 af 22. november 2011.
