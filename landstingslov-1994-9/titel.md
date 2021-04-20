@@ -1,1 +1,1 @@
-Landstingslov om offentlighed i forvaltningen
+landstingslov om offentlighed i forvaltningen

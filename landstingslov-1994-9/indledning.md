@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 9 af 13. juni 1994 om offentlighed i forvaltningen, med de ændringer, der følger af landstingslov nr. 1 af 31. maj 1999 og landstingsforordning nr. 6 af 31. maj 2001.

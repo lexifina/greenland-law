@@ -1,7 +1,7 @@
-# Landstingslov om offentlighed i forvaltningen
+# Selvstyrets lovbekendtgørelse af landstingslov om offentlighed i forvaltningen
 
-Landstingslov nr. 9 af 13. juni 1994
+Selvstyrets lovbekendtgørelse nr. 3 af 20. april 2021
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1994/ltl-09-1994?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-03-2021?sc_lang=da>
