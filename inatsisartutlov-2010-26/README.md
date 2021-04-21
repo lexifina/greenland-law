@@ -1,7 +1,7 @@
-# Inatsisartutlov om Inatsisartut og Naalakkersuisut
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om Inatsisartut og Naalakkersuisut
 
-Inatsisartutlov nr. 26 af 18. november 2010
+Selvstyrets lovbekendtgørelse nr. 6 af 21. april 2021
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2010/ltl-26-2010?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-06-2021?sc_lang=da>

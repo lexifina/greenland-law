@@ -1,5 +1,7 @@
 Inatsisartutlov om Inatsisartut og Naalakkersuisut
 
+Herved bekendtgøres Inatsisartutlov nr. 26 af 18. november 2010 om Inatsisartut og Naalakkersuisut, med de ændringer, der følger af Inatsisartutlov nr. 12 af 29. november 2013, Inatsisartutlov nr. 30 af 9. december 2015 og Inatsisartutlov nr. 2 af 29 maj 2020.
+
 Kapitel 1
 
 Selvstyret
@@ -51,6 +53,14 @@ Stk. 2. Inatsisartut fastsætter under en ordinær samling mødetidspunktet for 
 § 11. Formandskabet for Inatsisartut fremsender inden en samlings afholdelse til medlemmerne af Inatsisartut, Naalakkersuisut og Rigsombudsmanden en fortegnelse over de emner, som forventes at ville komme til behandling. Fortegnelsen offentliggøres.
 
 § 12. Ønsker et medlem af Inatsisartut at indhente oplysninger om et offentligt anliggende, kan dette ske ved spørgsmål til Naalakkersuisut.
+
+Stk. 2. Naalakkersuisut er ikke forpligtet til at besvare et spørgsmål, hvis:
+
+1) Naalakkersuisut ikke er i stand til at tilvejebringe oplysninger til brug for besvarelsen,
+
+2) tilvejebringelse af oplysninger til brug for besvarelsen ville kræve et betydeligt forbrug af tid og ressourcer, eller
+
+3) de ønskede oplysninger er omfattet af tavshedspligt.
 
 § 13. Forslag til Inatsisartutlove og andre beslutninger kan fremsættes af ethvert medlem af Inatsisartut samt af Naalakkersuisut.
 
@@ -114,7 +124,7 @@ Den udøvende magt
 
 Stk. 2. Formanden for Naalakkersuisut vælges blandt medlemmerne af Inatsisartut.
 
-Stk. 3. Formanden for Naalakkersuisut indstiller til Inatsisartut at vælge et antal navngivne medlemmer af Naalakkersuisut.Valg af medlemmer sker ved en samlet afstemning om formand ens forslag.
+Stk. 3. Formanden for Naalakkersuisut indstiller til Inatsisartut at vælge et antal navngivne medlemmer af Naalakkersuisut. Valg af medlemmer sker ved en samlet afstemning om formand ens forslag.
 
 Stk. 4. Et medlem af Naalakkersuisut, som ikke er medlem af Inatsisartut, skal opfylde de til enhver tid gældende bestemmelser om valgbarhed til Inatsisartut.
 
@@ -166,9 +176,11 @@ Stk. 2. Naalakkersuisut kan inden for en frist af 8 dage efter forslagets endeli
 
 Stk. 3. Naalakkersuisut kan ikke udsætte stadfæstelse af en midlertidig bevillingslov eller en lov om udskrivelse af nyvalg.
 
-§ 31. Inatsisartutlove og Selvstyrets bekendtgørelser træder, hvis de ikke bestemmer andet, i kraft ved begyndelsen af det døgn, der følger efter det døgn, hvori Inatsisartutloven eller Selvstyrets bekendtgørelse er offentliggjort på www.nanoq.gl. Hver indførelse i www.nanoq.gl skal indeholde oplysning om, hvilken dag, indførelsen er sket. Dette er den bindende kundgørelsesform.
+§ 31. Inatsisartutlove og Selvstyrets bekendtgørelser træder, hvis de ikke bestemmer andet, i kraft ved begyndelsen af det døgn, der følger efter det døgn, hvori Inatsisartutloven eller Selvstyrets bekendtgørelse er kundgjort.
 
-Stk. 2. Stk. 1 finder tilsvarende anvendelse på kommunale forskrifter fastsat i medfør af Inatsisartutlov, landstingslov, landstingsforordning eller Selvstyrets bekendtgørelse.
+Stk. 2. Kundgørelse sker elektronisk. Naalakkersuisut fastsætter nærmere regler for kundgørelsen.
+
+Stk. 3. Stk. 1 og 2 finder tilsvarende anvendelse på kommunale forskrifter fastsat i medfør af Inatsisartutlov, landstingslov, landstingsforordning eller Selvstyrets bekendtgørelse.
 
 Kapitel 8
 
@@ -178,10 +190,34 @@ Ikrafttræden
 
 Stk. 2. Regler, der er fastsat med hjemmel i landstingslov nr. 11 af 20. oktober 1988 om Landstinget og Landsstyret forbliver i kraft, indtil de afløses af eller ophæves ved regler fastsat med hjemmel i denne Inatsisartutlov.
 
-Grønlands Selvstyre, den 18. november 2010
+Inatsisartutlov nr. 12 af 29. november 2013 (Elektronisk kundgørelse)[1] indeholder følgende ikrafttrædelsesbestemmelser:
 
-Kuupik Kleist
+§ 2
+
+Denne Inatsisartutlov træder i kraft den 1. januar 2014.
+
+Inatsisartutlov nr. 30 af 9. december 2015 (Korrektion af § 25, stk. 3, og § 31, stk. 1, i den grønlandske lovtekst)[2] indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Inatsisartutloven træder i kraft den 1. januar 2016.
+
+Inatsisartutlov nr. 2 af 19. maj 2020 (Spørgsmål til Naalakkersuisut)[3] indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Inatsisartutloven træder i kraft den 1. juli 2020.
+
+Formandens Departement, den 21. april 2021
+
+Hans-Peder Barlach Christensen
 
 /
 
-Peter Schultz
+Jógvan Svabo Samuelsen
+
+[1] Lovændringen vedrører § 31.
+
+[2] Lovændringen vedrører § 25, stk. 3 og § 31, stk. 1 i den grønlandske lovtekst.
+
+[3] Lovændringen vedrører § 12.
