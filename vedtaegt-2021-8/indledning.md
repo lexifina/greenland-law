@@ -1,0 +1,1 @@
+I medfør af § 8, stk. 3 og § 17, stk. 2 i landstingslov nr. 12 af 29. oktober 1999 om fangst og jagt, og § 33 i Selvstyrets bekendtgørelse nr. 9 af 6. december 2018 om beskyttelse og fangst af store hvaler, fastsættes:
