@@ -1,11 +1,17 @@
-/
+Departementet for Sociale Anliggender og Arbejdsmarked, den 14. juli 2021
 
-Trine Foldager
+Isak Nielsen Kleist
 
-[1] Lovændringen vedrører § 31 (i den grønlandske lovtekst).
+Naalakkersuisoq for Sociale Anliggender og Arbejdsmarked
+
+/John Maahr Hansen
+
+[1] Lovændringen vedrører § 31.
 
 [2] Lovændringen vedrører § 17, stk. 3, § 17, stk. 4, § 29, stk. 1, § 29, stk. 2, § 33, stk. 3, § 36 og § 43, stk. 9.
 
 [3] Lovændringen vedrører § 17, stk. 4, 2. pkt og § 29.
 
-[4] Lovændringen vedrører § 7a, § 7b, § 7c og § 37, stk. 1, 2. pkt.
+[4] Lovændringen vedrører § 7 a, § 7 b, § 7 c og § 37, stk. 1, 2. pkt.
+
+[5] Lovændringen vedrører § 8, § 9, § 13, stk. 5, § 39, stk. 2-4, § 43, stk. 1, 2.pkt. og § 43, stk. 3.

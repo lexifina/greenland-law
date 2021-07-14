@@ -24,6 +24,8 @@ Inatsisartutlov nr. 28 af 28. november 2019 (Udveksling af oplysninger mellem gr
 
 Inatsisartutloven træder i kraft den 1. januar 2020.
 
-Departementet for Sociale Anliggender og Justitsområdet, den 21. februar 2020
+Inatsisartutlov nr. 6 af 19. november 2020 (Afklaringsforløb, revalideringsforløb, midlertidigt tillæg grundet lokale forhold og præcisering af klageadgang til Førtidspensionsklagenævnet)[5] indeholder følgende ikrafttrædelsesbestemmelse:
 
-Julie Præst Wilche
+§ 2
+
+Inatsisartutloven træder i kraft den 1. januar 2021.
