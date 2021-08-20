@@ -1,7 +1,7 @@
-# Inatsisartutlov om indhentning af tilbud i bygge- og anlægssektoren
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om indhentning af tilbud i bygge- og anlægssektoren
 
-Inatsisartutlov nr. 11 af 2. december 2009
+Selvstyrets lovbekendtgørelse nr. 9 af 20. august 2021
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2009/ltl-11-2009?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-09-2021?sc_lang=da>
