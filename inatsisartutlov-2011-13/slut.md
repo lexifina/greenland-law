@@ -1,3 +1,5 @@
-Grønlands Selvstyre, den 22. november 2011
+Karsten Peter Jensen
 
-Kuupik Kleist
+Departementchef
+
+/ Claus Kleemann

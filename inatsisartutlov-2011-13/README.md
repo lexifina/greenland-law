@@ -1,7 +1,7 @@
-# Inatsisartutlov om den gymnasiale uddannelse
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om den gymnasiale uddannelse
 
-Inatsisartutlov nr. 13 af 22. november 2011
+Selvstyrets lovbekendtgørelse nr. 10 af 29. september 2021
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2011/ltl-13-2011?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-10-2021?sc_lang=da>

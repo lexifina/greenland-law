@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 13 af 22. november 2011 om den gymnasiale uddannelse med de ændringer, der følger af Inatsisartutlov nr. 4 af 30. maj 2014, Inatsisartutlov nr. 31 af 9. december 2015 og Inatsisartutlov nr. 16 af 27. november 2020.
