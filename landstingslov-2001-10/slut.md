@@ -1,7 +1,7 @@
-Grønlands Hjemmestyre, den 12. november 2001.
+Nikolai Sten Christensen
 
-Jonathan Motzfeldt
+Departementchef
 
-/
+/ Morten Wenzel Selvejer
 
-Josef Motzfeldt
+[1] Lovændringen vedrører § 16

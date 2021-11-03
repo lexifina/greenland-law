@@ -1,1 +1,1 @@
-Landstingslov om ferie
+Inatsisartutlov om ferie
