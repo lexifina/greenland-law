@@ -1,0 +1,1 @@
+§ 12 f. Naalakkersuisut kan i situationer med udbredelse af eller fare for udbredelse af en alment farlig sygdom her i landet fastsætte regler om særlige foranstaltninger med henblik på at sikre forsyningen af varer. Regler fastsat i medfør af 1. pkt. kan fravige anden lovgivning.

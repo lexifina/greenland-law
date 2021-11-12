@@ -1,1 +1,1 @@
-Landstingsforordning om civile foranstaltninger mod smitsomme sygdomme
+Inatsisartutlov om civile foranstaltninger mod smitsomme sygdomme

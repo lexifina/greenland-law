@@ -1,0 +1,1 @@
+§ 21 b. Naalakkersuisut kan fastsætte regler om, at personoplysninger kan behandles, hvis behandlingen er nødvendig for at hindre udbredelse og smitte af en bestemt sygdom omfattet af landstingsforordningens § 2.

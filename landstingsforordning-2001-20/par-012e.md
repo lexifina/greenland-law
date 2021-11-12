@@ -1,0 +1,1 @@
+§ 12 e. Naalakkersuisut kan fastsætte regler om, at pligter, der ifølge lovgivningen påhviler private over for det offentlige, fraviges, i det omfang det som følge af foranstaltninger iværksat i medfør af denne landstingsforordning vil være umuligt eller uforholdsmæssig vanskeligt for den private at opfylde pligten.

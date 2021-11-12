@@ -1,5 +1,1 @@
-I medfør af § 1 og § 3 i lov nr. 369 af 6. juni 1991 om sundhedsvæsenet i Grønland fastsættes:
-
-## Kapitel 1.
-
-Formål og anvendelsesområde
+Herved bekendtgøres Landstingsforordning nr. 20 af 12. november 2001 om civile foranstaltninger mod smitsomme sygdomme, med de ændringer, der følger af Hjemmestyrets bekendtgørelse nr. 16 af 13. september 2006, Inatsisartutlov nr. 18 af 27. november 2018 og Inatsisartutlov nr. 1 af 1. april 2020.

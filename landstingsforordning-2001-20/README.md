@@ -1,7 +1,7 @@
-# Landstingsforordning om civile foranstaltninger mod smitsomme sygdomme
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om civile foranstaltninger mod smitsomme sygdomme
 
-Landstingsforordning nr. 20 af 12. november 2001
+Selvstyrets lovbekendtgørelse nr. 13 af 12. november 2021
 
 Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2001/ltf-20-2001?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-bkg-13-2021?sc_lang=da>

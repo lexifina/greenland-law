@@ -1,0 +1,1 @@
+§ 21 a. Naalakkersuisut kan fastsætte regler om fysiske og juridiske personers samt myndigheders oplysningsforpligtelser for at hindre udbredelse og smitte af en bestemt sygdom omfattet af landstingsforordningens § 2.

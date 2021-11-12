@@ -1,0 +1,1 @@
+§ 6 a. Naalakkersuisut kan, når det er nødvendigt for at forebygge eller inddæmme udbredelse af en alment farlig sygdom her i landet, fastsætte regler om forbud mod adgang til eller restriktioner for adgangen til offentlige institutioner m.v.

@@ -1,0 +1,1 @@
+§ 12 c. Naalakkersuisut kan, når det er nødvendigt for at forebygge eller inddæmme udbredelse af en alment farlig sygdom her i landet, fastsætte regler om forbud mod eller restriktioner for besøgendes adgang til offentlige og private plejehjem og sygehuse og om undtagelser hertil. Regler fastsat i medfør af 1. pkt. kan fravige anden lovgivning.
