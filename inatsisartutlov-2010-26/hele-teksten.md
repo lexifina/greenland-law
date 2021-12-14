@@ -1,6 +1,6 @@
 Inatsisartutlov om Inatsisartut og Naalakkersuisut
 
-Herved bekendtgøres Inatsisartutlov nr. 26 af 18. november 2010 om Inatsisartut og Naalakkersuisut, med de ændringer, der følger af Inatsisartutlov nr. 12 af 29. november 2013, Inatsisartutlov nr. 30 af 9. december 2015 og Inatsisartutlov nr. 2 af 29 maj 2020.
+Herved bekendtgøres Inatsisartutlov nr. 26 af 18. november 2010 om Inatsisartut og Naalakkersuisut, jf. Selvstyrets lovbekendtgørelse nr. 6 af 21. april 2021, med de ændringer, der følger af Inatsisartutlov nr. 4 af 19. november 2021.
 
 Kapitel 1
 
@@ -84,13 +84,23 @@ Stk. 2. Udvalget kan berostille udvalgets behandling af forslag eller ansøgning
 
 Stk. 3. I udvalget er medlemmerne og andre, der måtte være til stede under udvalgets drøftelser, forpligtet til at hemmeligholde oplysninger, de bliver bekendt med i udvalget i medfør af stk. 1, i det omfang oplysninger er givet i fortrolighed. Ethvert nyt medlem afgiver en skriftlig erklæring på tro og love om at ville efterkomme denne forpligtelse.
 
-§ 18. Udvalg for Revision af Landskassens Regnskaber gennemgår landskassens regnskaber og revisionens bemærkninger hertil én gang om året og fremsætter de spørgsmål og bemærkninger til Naalakkersuisut, som regnskaberne giver anledning til. Spørgsmål og bemærkninger tillige med besvarelser fra Naalakkersuisut forelægges Inatsisartut.
+§ 18. Revisionsudvalget gennemgår landskassens regnskaber og revisionens bemærkninger hertil 1 gang om året og fremsætter de spørgsmål og bemærkninger til Naalakkersuisut, som regnskaberne og revisionens bemærkninger giver anledning til. Udvalgets spørgsmål og bemærkninger tillige med besvarelser fra Naalakkersuisut forelægges Inatsisartut.
 
-Stk. 2. Udvalget kan foretage en vurdering af, hvorvidt der er taget passende økonomiske hensyn ved forvaltningen af de midler og driften af de virksomheder, der er omfattet af revision efter stk. 1. Redegørelser, rapporter m.v. udarbejdet til brug for vurderingen fremsendes umiddelbart efter modtagelse til Naalakkersuisut til orientering.
+Stk. 2. Udvalget kan til enhver tid iværksætte eller behandle undersøgelser af:
 
-Stk. 3. Udvalget kan til brug for sit arbejde rekvirere det fornødne materiale, bilag, rapporter m.v. fra den regnskabsførende myndighed. Hvis et udvalgsmedlem kræver det, skal udvalget rekvirere nævnte materiale.
+1) hvorvidt der er taget passende økonomiske hensyn ved forvaltningen af de midler og driften af de virksomheder, der er omfattet af regnskabet, og
 
-§ 19. Udvalg for Revision af Landskassens Regnskaber fører endvidere kontrol med, hvordan Naalakkersuisut varetager Grønlands Selvstyres aktionærinteresser.
+2) hvorvidt dispositioner, der er omfattet af regnskabsaflæggelsen er i overensstemmelse med meddelte bevillinger, love og andre forskrifter samt med indgåede aftaler og sædvanlig praksis.
+
+Stk. 3. Udvalget giver hurtigst muligt Naalakkersuisut mulighed for at kommentere redegørelser, rapporter og responsa m.v., som udvalget i medfør af stk. 2 har indhentet eller besluttet at behandle.
+
+Stk. 4. Udvalget kan, hvis udvalget finder det påkrævet, orientere Inatsisartut om en forvaltningsundersøgelse omfattet af stk. 2 uden at afvente afgivelse af betænkning vedrørende landskassens regnskab.
+
+Stk. 5. Naalakkersuisut skal på udvalgets anmodning meddele udvalget enhver oplysning, og udlevere enhver form for materiale, som er af betydning for udvalgets varetagelse af udvalgets opgaver i henhold til stk. 1-2.
+
+Stk. 6. Udvalget indhenter oplysninger og materiale i medfør af stk. 5, hvis mindst 1 med-lem af udvalget kræver dette.
+
+§ 19. Revisionsudvalget fører endvidere kontrol med, hvordan Naalakkersuisut varetager Grønlands Selvstyres aktionærinteresser.
 
 Stk. 2. Udvalget kan som led i kontrollen efter stk. 1 foretage en vurdering af, hvorvidt Naalakkersuisut i tilstrækkeligt omfang har søgt tilsikret, at der tages passende økonomiske hensyn ved driften af helt eller delvist selvstyreejede aktieselskaber.
 
@@ -190,34 +200,42 @@ Ikrafttræden
 
 Stk. 2. Regler, der er fastsat med hjemmel i landstingslov nr. 11 af 20. oktober 1988 om Landstinget og Landsstyret forbliver i kraft, indtil de afløses af eller ophæves ved regler fastsat med hjemmel i denne Inatsisartutlov.
 
-Inatsisartutlov nr. 12 af 29. november 2013 (Elektronisk kundgørelse)[1] indeholder følgende ikrafttrædelsesbestemmelser:
+Inatsisartutlov nr. 12 af 29. november 2013 (Elektronisk kundgørelse)[i] indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
 Denne Inatsisartutlov træder i kraft den 1. januar 2014.
 
-Inatsisartutlov nr. 30 af 9. december 2015 (Korrektion af § 25, stk. 3, og § 31, stk. 1, i den grønlandske lovtekst)[2] indeholder følgende ikrafttrædelsesbestemmelser:
+Inatsisartutlov nr. 30 af 9. december 2015 (Korrektion af § 25, stk. 3, og § 31, stk. 1, i den grønlandske lovtekst)[ii] indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Inatsisartutloven træder i kraft den 1. januar 2016.
 
-Inatsisartutlov nr. 2 af 19. maj 2020 (Spørgsmål til Naalakkersuisut)[3] indeholder følgende ikrafttrædelsesbestemmelser:
+Inatsisartutlov nr. 2 af 19. maj 2020 (Spørgsmål til Naalakkersuisut)[iii] indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Inatsisartutloven træder i kraft den 1. juli 2020.
 
-Formandens Departement, den 21. april 2021
+Inatsisartutlov nr. 4 af 19. november 2021 (Revisionsudvalgets kompetence og krav på oplysninger og materiale)[iv] indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Inatsisartutloven træder i kraft den 1. januar 2022.
+
+Formandens Departement, den 14. december 2021
 
 Hans-Peder Barlach Christensen
 
-/
+Departementschef
 
-Jógvan Svabo Samuelsen
+/ Jógvan Svabo Samuelsen
 
-[1] Lovændringen vedrører § 31.
+[i] Lovændringen vedrører § 31.
 
-[2] Lovændringen vedrører § 25, stk. 3 og § 31, stk. 1 i den grønlandske lovtekst.
+[ii] Lovændringen vedrører § 25, stk. 3 og § 31, stk. 1 i den grønlandske lovtekst.
 
-[3] Lovændringen vedrører § 12.
+[iii] Lovændringen vedrører § 12.
+
+[iv] Lovændringen vedrører §§ 18 og 19.
