@@ -1,0 +1,1 @@
+I medfør af § 26, stk. 5, i lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven), jf. lovbekendtgørelse nr. 1062 af 19. maj 2021, som ændret ved lov nr. 2601 af 28. december 2021, fastsættes:
