@@ -1,0 +1,1 @@
+I medfør af § 1, stk. 2 i landstingslov nr. 8. af 13. juni 1994 om sagsbehandling i den offentlige forvaltning, § 1, stk. 2 i landstingslov nr. 9 af 13. juni 1994 om offentlighed i forvaltningen, og § 13, stk. 2 i Inatsisartutlov nr. 14 af 8. juni 2017 om Offentlig Digital Post, fastsættes:
