@@ -1,0 +1,1 @@
+I medfør af § 9, stk. 2, og § 9 a i lov om erstatning fra staten til ofre for forbrydelser, jf. lovbekendtgørelse nr. 1209 af 18. november 2014, som ændret ved lov nr. 486 af 30. april 2019, og § 15, stk. 2, i lov om erstatningsansvar, jf. lovbekendtgørelse nr. 1070 af 24. august 2018, fastsættes:
