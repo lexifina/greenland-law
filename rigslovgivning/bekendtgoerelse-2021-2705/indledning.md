@@ -1,0 +1,1 @@
+I medfør af § 211, stk. 2, i lov om aktie- og anpartsselskaber (selskabsloven), som sat i kraft for Grønland ved kongelig anordning nr. 486 af 14. maj 2018, som ændret ved kongelig anordning nr. 2624 af 28. december 2021, fastsættes:
