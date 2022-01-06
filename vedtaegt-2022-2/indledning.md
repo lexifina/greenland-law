@@ -1,0 +1,1 @@
+I medfør af § 23, stk. 2 og § 33, stk. 3 i landstingslov nr. 18 af 31. oktober 1996 om fiskeri, og § 8, stk. 2 i Selvstyrets bekendtgørelse nr. 46 af 14. december 2020 om kystnært fiskeri efter hellefisk fastsættes:
