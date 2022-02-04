@@ -1,3 +1,9 @@
-Grønlands Selvstyre, den 28. november 2019
+Departementet for Sociale Anliggender, Arbejdsmarked og Indenrigsanliggender, den 3. februar 2022
 
-Kim Kielsen
+Isak Nielsen Kleist
+
+/
+
+John Maahr Hansen
+
+[1] Lovændringen vedrører § 9 og § 16, stk. 2

@@ -1,1 +1,1 @@
-Inatsisartutlov om Ældretalsmand
+Inatisartutlov om Ældretalsmand

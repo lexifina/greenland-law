@@ -1,7 +1,7 @@
-# Inatsisartutlov om Ældretalsmand
+# Selvstyrets lovbekendtgørelse af Inatisartutlov om Ældretalsmand
 
-Inatsisartutlov nr. 37 af 28. november 2019
+Selvstyrets lovbekendtgørelse nr. 1 af 4. februar 2022
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2019/L-37-2019?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-01-2022?sc_lang=da>
