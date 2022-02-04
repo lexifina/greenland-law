@@ -29,3 +29,11 @@ Inatsisartutlov nr. 6 af 19. november 2020 (Afklaringsforløb, revalideringsforl
 § 2
 
 Inatsisartutloven træder i kraft den 1. januar 2021.
+
+Inatsisartutlov nr. 7 af 19. november 2021 (Pensionsalder på 65 år for personer som er nedslidte, ændring af reguleringsgrundlag)[6] indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Inatsisartutloven træder i kraft dagen efter Inatsisartutlovens kundgørelse, og har virkning fra 1. januar 2021.
+
+Stk. 2. Personer, der allerede er tilkendt alderspension, fortaber ikke retten hertil, selv om § 1, nr. 1, måtte føre til, at de ikke længere opfylder aldersbetingelsen for tilkendelse af alderspension.
