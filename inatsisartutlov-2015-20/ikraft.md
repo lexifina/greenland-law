@@ -16,6 +16,10 @@ Inatsisartutlov nr. 35 af 28. november 2019 (Forhøjelse af det beløb borgeren 
 
 Denne Inatsisartutlov træder i kraft den 1. januar 2020.
 
-Departementet for Sociale Anliggender og Justitsområdet, den 28. februar 2020
+Inatsisartutlov nr. 7 af 19. november 2021 (Pensionsalder på 65 år for personer som er nedslidte, ændring af reguleringsgrundlag)[4] indeholder følgende ikrafttrædelsesbestemmelse:
 
-Julie Præst Wilche
+§ 3
+
+Denne Inatsisartutlov træder i kraft dagen efter Inatsisartutlovens kundgørelse, og har virkning fra 1. januar 2021.
+
+Stk. 2. Personer, der allerede er tilkendt alderspension, fortaber ikke retten hertil, selv om § 1, nr. 1, måtte føre til, at de ikke længere opfylder aldersbetingelsen for tilkendelse af alderspension.

@@ -1,7 +1,7 @@
 # Selvstyrets lovbekendtgørelse af Inatsisartutlov om alderspension
 
-Selvstyrets lovbekendtgørelse nr. 9 af 28. februar 2020
+Selvstyrets lovbekendtgørelse nr. 3 af 7. februar 2022
 
 Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-09-2020?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-03-2022?sc_lang=da>
