@@ -1,0 +1,1 @@
+§ 54 a. Hvis en person eller en virksomhed ikke ønsker at afgive en oplysning til tilsynsmyndighed, kan tilsynsmyndigheden, før sagen overgives til Grønlands Politi til videre efterforskning efter retsplejelov for Grønland, foretage nødvendige undersøgelser for den pågældendes regning til belysning af en mulig overtrædelse af Inatsisartutloven eller regler udstedt i medfør heraf.

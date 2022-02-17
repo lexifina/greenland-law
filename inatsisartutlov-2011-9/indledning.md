@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 9 af 22. november 2011 om beskyttelse af miljøet, med de ændringer, der følger af Inatsisartutlov nr. 1 af 29. maj 2012, Inatsisartutlov nr. 10 af 27. november 2018 og Inatsisartutlov nr. 16 af 1. december 2021.
