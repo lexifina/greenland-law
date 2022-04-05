@@ -1,0 +1,1 @@
+I medfør af § 8, stk. 3, § 10, stk. 6, § 11, stk. 6 og 7, § 12, stk. 5, § 15, stk. 5 i Inatsisartutlov nr. 17 af 27. november 2020 om virksomheders og offentlige myndigheders samfundsansvar ved ansættelse af lærlinge og praktikanter, fastsættes:
