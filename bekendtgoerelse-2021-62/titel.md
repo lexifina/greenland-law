@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om minimumsdimensionering for kommunale redningsberedskaber
