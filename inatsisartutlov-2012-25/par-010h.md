@@ -1,0 +1,3 @@
+§ 10 h. Enhver tvist vedrørende forholdene nævnt i §§ 10-10g, herunder om udenlandske arbejdstageres løn‑ og ansættelsesvilkår, ansættelsesaftaler, faglige organisationer, kollektive overenskomster, kollektive kampskridt og ferie, afgøres af Retten i Grønland som 1. instans.
+
+Stk. 2. Enhver tvist som nævnt i stk. 1 afgøres efter de for Grønland gældende grønlandske og danske regler og tilladelsesvilkår, herunder denne inatsisartutlov og en tilladelse meddelt efter denne inatsisartutlov, og i øvrigt efter indgåede og anvendelige aftaler og kollektive overenskomster, medmindre andet følger af Grønlands internationale forpligtelser.

@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 25 af 18. december 2012 om bygge og anlægsarbejder ved storskalaprojekter, med de ændringer, der følger af Inatsisartutlov nr. 13 af 29. november 2013, og Inatsisartutlov nr. 32 af 28. november 2019.

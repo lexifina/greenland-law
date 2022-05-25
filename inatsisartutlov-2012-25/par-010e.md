@@ -1,0 +1,1 @@
+§ 10 e. Naalakkersuisut kan fastsætte nærmere bestemmelser om forholdene nævnt i §§ 10a-10d, herunder om afgrænsningen af de mest repræsentative arbejdsmarkedsparter og deres relevante overenskomster, om arbejdstagerorganisationers forhandlingsret og konfliktret, om opgørelse af løn og grundløn pr. time efter kollektive overenskomster og om ferie.

@@ -1,7 +1,7 @@
-# Inatsisartutlov om bygge- og anlægsarbejder ved storskalaprojekter
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om bygge- og anlægsarbejder ved storskalaprojekter
 
-Inatsisartutlov nr. 25 af 18. december 2012
+Selvstyrets lovbekendtgørelse nr. 5 af 25. maj 2022
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2012/ltl-25-2012?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-05-2022?sc_lang=da>
