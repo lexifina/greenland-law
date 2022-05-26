@@ -1,0 +1,1 @@
+Inatsisartutlov om ophævelse af Inatsisartutlov om betalingssystemet Ilanngaassivik
