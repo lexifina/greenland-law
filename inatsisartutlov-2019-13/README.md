@@ -1,7 +1,7 @@
-# Inatsisartutlov om støtte til personer med handicap
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om støtte til personer med handicap
 
-Inatsisartutlov nr. 13 af 12. juni 2019
+Selvstyrets lovbekendtgørelse nr. 7 af 1. juni 2022
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2019/L-13-2019?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-07-2022?sc_lang=da>
