@@ -1,7 +1,7 @@
-# Inatsisartutlov om støtte til børn
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om støtte til børn
 
-Inatsisartutlov nr. 20 af 26. juni 2017
+Selvstyrets lovbekendtgørelse nr. 6 af 1. juni 2022
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-20-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-06-2022?sc_lang=da>

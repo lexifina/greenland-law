@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 26. juni 2017
+Departementet for Børn, Unge og Familier, den 30. maj 2022
 
-Kim Kielsen
+Heidi Lindholm
+
+Departementschef
+
+/Betina Danielsen
