@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om registrerede socialøkonomiske virksomheder
