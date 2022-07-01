@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 5, samt § 45, stk. 1, i Inatsisartutlov nr. 10 af 20. juni 2022 om civile foranstaltninger mod smitsomme sygdomme, og efter indstilling fra Landslægeembedet og i samråd med Epidemikommissionen, fastsættes:
