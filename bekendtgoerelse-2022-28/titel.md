@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om Forretningsorden for Naalakkersuisut
