@@ -1,7 +1,7 @@
-# Inatsisartutlov om kollegier
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om kollegier
 
-Inatsisartutlov nr. 42 af 12. december 2019
+Selvstyrets lovbekendtgørelse nr. 8 af 14. juli 2022
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2019/L-42-2019-OMTRYK?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-08-2022?sc_lang=da>
