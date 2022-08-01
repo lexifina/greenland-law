@@ -1,0 +1,1 @@
+I medfør af § 5, stk. 2, § 6, stk. 2, § 8, stk. 3 og 4, § 11, stk. 5, og § 14 i Inatsisartutlov nr. 13 af 22. november 2011 om den gymnasiale uddannelse, som senest ændret ved Inatsisartutlov nr. 16 af 27. november 2020, fastsættes:
