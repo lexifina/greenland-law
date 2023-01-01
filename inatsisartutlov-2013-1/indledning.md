@@ -1,1 +1,0 @@
-Herved bekendtgøres Inatsisartutlov nr. 1 af 21. november 2013 om magtanvendelse inden for det sociale område, med de ændringer der følger af Inatsisartutlov nr. 38 af 23. november 2017, Inatsisartutlov nr. 47 af 23. november 2017 og Inatsisartutlov nr. 20 af 7. november 2019.
