@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om elektronisk kundgørelse
