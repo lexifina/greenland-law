@@ -1,6 +1,6 @@
 Inatsisartutlov om Inatsisartut og Naalakkersuisut
 
-Herved bekendtgøres Inatsisartutlov nr. 26 af 18. november 2010 om Inatsisartut og Naalakkersuisut, jf. Selvstyrets lovbekendtgørelse nr. 6 af 21. april 2021, med de ændringer, der følger af Inatsisartutlov nr. 4 af 19. november 2021.
+Herved bekendtgøres Inatsisartutlov nr. 26 af 18. november 2010 om Inatsisartut og Naalakkersuisut, jf. Selvstyrets lovbekendtgørelse nr. 14 af 14. december 2021, med de ændringer, der følger af Inatsisartutlov nr. 32 af 25. november 2022.
 
 Kapitel 1
 
@@ -37,6 +37,8 @@ Stk. 2. Intet medlem af Inatsisartut kan uden dettes samtykke tiltales eller und
 § 7. Inatsisartut træder sammen snarest muligt og senest 45 dage efter nyvalg. Indkaldelse foretages af det medlem, der længst har været medlem af Inatsisartut, eller hvis flere har været medlem af Inatsisartut lige længe, af den ældste. Samme medlem leder forhandlingerne i Inatsisartut indtil valgs prøvelse og valg af Formandskab for Inatsisartut har fundet sted.
 
 § 8. Inatsisartut er beslutningsdygtig, når mindst halvdelen af medlemmerne er til stede. En beslutning er truffet, når den støttes af mere end halvdelen af de tilstedeværende medlemmers afgivne stemmer.
+
+Stk. 2. Inatsisartut kan uanset stk. 1 afholde møder elektronisk, når Formandskabet for Inatsisartut vurderer sagen uopsættelig.
 
 § 9. Møder i Inatsisartut er offentlige. Inatsisartut kan dog vedtage at behandle enkelte sager for lukkede døre. Spørgsmålet om, hvorvidt en sag giver grundlag for dørlukning, forhandles for lukkede døre, hvis dette bestemmes af Inatsisartut eller mødelederen.
 
@@ -224,13 +226,19 @@ Inatsisartutlov nr. 4 af 19. november 2021 (Revisionsudvalgets kompetence og kra
 
 Inatsisartutloven træder i kraft den 1. januar 2022.
 
-Formandens Departement, den 14. december 2021
+Inatsisartutlov nr. 32 af 25. november 2022 (Mulighed for Inatsisartut at afholde møder elektronisk)[v] indeholder følgende ikrafttrædelsesbestemmelse:
 
-Hans-Peder Barlach Christensen
+§ 2
+
+Denne Inatsisartutlov træder i kraft dagen efter, at Inatsisartutloven er kundgjort.
+
+Formandens Departement, den 4. april 2023
+
+Hans-Peder Barlach Christensen (sign.)
 
 Departementschef
 
-/ Jógvan Svabo Samuelsen
+/ Jógvan Svabo Samuelsen (sign.)
 
 [i] Lovændringen vedrører § 31.
 
@@ -239,3 +247,5 @@ Departementschef
 [iii] Lovændringen vedrører § 12.
 
 [iv] Lovændringen vedrører §§ 18 og 19.
+
+[v] Lovændringen vedrører § 8, stk. 2.
