@@ -1,7 +1,7 @@
-# Inatsisartutlov om folkeskolen
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om folkeskolen
 
-Inatsisartutlov nr. 15 af 3. december 2012
+Selvstyrets lovbekendtgørelse nr. 19 af 27. april 2023
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2012/ltl-15-2012?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-19-af-27_04_2023?sc_lang=da>

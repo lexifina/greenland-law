@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 15 af 3. december 2012 om folkeskolen, med de ændringer, der følger af Inatsisartutlov nr. 21 af 13. november 2017 og Inatsisartutlov nr. 9 af 19. november 2021.
