@@ -1,0 +1,3 @@
+§ 39 b. Naalakkersuisut kan indhente alle nødvendige oplysninger fra de uddannelsesinstitutioner, der udbyder videregående uddannelser, om uddannelserne, de uddannelsessøgende og personalet, herunder foranstalte besøg på uddannelsesinstitutionerne med henblik på gennemførelse af tilsyn og udarbejdelse af statistik og kan fastsætte nærmere regler herom.
+
+Stk. 2. Naalakkersuisut kan fastsætte regler om elektronisk kommunikation mellem Naalakkersuisut og uddannelsesinstitutioner, der udbyder videregående uddannelser, herunder om form og format i forbindelse med aflevering af oplysninger. Naalakkersuisut kan desuden fastsætte krav til kontrol- og sikkerhedsforanstaltninger.
