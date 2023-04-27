@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om generel dispensation fra § 7, stk. 2, i Selvstyrets bekendtgørelse nr. 47 af 18. december 2020 om licens og kvoter til fiskeri (Forlængelse af fiskeriperiode for overførte reje kvotemængder til 31. maj)

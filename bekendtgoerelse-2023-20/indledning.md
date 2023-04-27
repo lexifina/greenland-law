@@ -1,0 +1,1 @@
+I medfør af § 1, nr. 3. i Landstingslov nr. 15 af 12. november 2001 om ændring af Landstingslov om fiskeri. (Nedsættelse af kravet til bruttoindkomst fra erhvervsfiskeri, forøgelse af den maksimale kvoteandel i den kystnære flådekomponent, kvoteårsfleksibilitet og regler om offentliggørelse af oplysninger om kvoter, fangster m.m.), fastsættes:
