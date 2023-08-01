@@ -1,0 +1,1 @@
+I medfør af § 46 a i Inatsisartutlov nr. 26 af 28. november 2016 om kommunernes og Grønlands Selvstyres budgetter og regnskaber, som ændret ved Inatsisartutlov nr. 24 af 28. november 2018 og Inatsisartutlov nr. 13 af 1. december 2021, fastsættes:
