@@ -11,3 +11,7 @@
 [vi] Lovændringen vedrører § 18, stk.1.
 
 [vii] Lovændringen vedrører § 17, stk. 2 og 3.
+
+[viii] Lovændringen vedrører § 15, stk. 3 og 4, § 16, stk. 3 og 4 og § 17, stk. 4 og 6.
+
+[ix] Lovændringen vedrører § 17, stk. 2.
