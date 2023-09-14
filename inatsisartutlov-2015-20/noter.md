@@ -7,3 +7,5 @@
 [iv] Lovændringen vedrører § 1 og § 11, stk. 1.
 
 [v] Lovændringen vedrører § 9, stk. 1.
+
+[vi] Lovændringen vedrører § 9, stk. 1.

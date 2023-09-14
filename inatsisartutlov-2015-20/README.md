@@ -1,7 +1,7 @@
 # Selvstyrets lovbekendtgørelse af Inatsisartutlov om alderspension
 
-Selvstyrets lovbekendtgørelse nr. 10 af 24. marts 2023
+Selvstyrets lovbekendtgørelse nr. 42 af 14. september 2023
 
 Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-10-af-24_03_2023?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-42-af-14_09_2023?sc_lang=da>

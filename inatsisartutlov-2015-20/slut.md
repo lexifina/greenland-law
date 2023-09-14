@@ -1,8 +1,8 @@
 Departementet for Sociale Anliggender, Arbejdsmarked og Indenrigsanliggender
 
-den 28. september 2022
+den 11. september 2023
 
-Lona Lynge (sign.)
+Martha Abelsen (sign.)
 
 Departementschef
 
