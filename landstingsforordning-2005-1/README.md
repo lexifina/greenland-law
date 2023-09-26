@@ -1,7 +1,7 @@
-# Landstingsforordning om lægemidler
+# Selvstyret lovbekendtgørelse af Landstingsforordning om lægemidler
 
-Landstingsforordning nr. 1 af 12. maj 2005
+Selvstyrets lovbekendtgørelse nr. 43 af 26. september 2023
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2005/ltf-01-2005?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-43-af-26_09_2023?sc_lang=da>

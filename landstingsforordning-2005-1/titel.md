@@ -1,1 +1,1 @@
-Landstingsforordning om lægemidler
+Selvstyret lovbekendtgørelse af Landstingsforordning om lægemidler
