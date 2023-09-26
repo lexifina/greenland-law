@@ -1,7 +1,7 @@
-Grønlands Hjemmestyre, den 6. november 1997
+Departementet for Sundhed, den 20. september 2023
 
-Jonathan Motzfeldt
+Nike Berthelsen (sign.)
 
-/
+Departementschef
 
-Marianne Jensen
+/ Hans Erik Dahl (sign.)

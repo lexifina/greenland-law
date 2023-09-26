@@ -1,1 +1,1 @@
-I medfør af § 1 i Lov nr. 369 af 6. juni 1991 om sundhedsvæsenet i Grønland fastsættes:
+Herved bekendtgøres Landstingsforordning nr. 15 af 6. november 1997 om sundhedsvæsenets ydelser m.v., med de ændringer, der følger af Landstingsforordning nr. 12 af 14. november 2004, Landstingsforordning nr. 16 af 20. november 2006.
