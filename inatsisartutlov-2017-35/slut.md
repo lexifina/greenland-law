@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 23. november 2017
+Departement for Sundhed, den 20. september 2023
 
-Kim Kielsen
+Nike Berthelsen (sign.)
+
+Departementschef
+
+/ Hans Erik Dahl (sign.)

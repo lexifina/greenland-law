@@ -1,7 +1,7 @@
-# Inatsisartutlov om alkohol
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om alkohol
 
-Inatsisartutlov nr. 35 af 23. november 2017
+Selvstyrets lovbekendtgørelse nr. 47 af 26. september 2023
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-35-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-47-af-26_09_2023?sc_lang=da>
