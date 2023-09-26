@@ -1,7 +1,9 @@
-Grønlands Hjemmestyre, den 14. november 2004
+Departementet for Sundhed, den 20. september 2023
 
-Hans Enoksen
+Nike Berthelsen (sign.)
 
-/
+Departementschef
 
-Asii Chemnitz Narup
+/ Hans Erik Dahl (sign.)
+
+[1] Lovændringen vedrører §§ 2-7.

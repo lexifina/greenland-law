@@ -1,1 +1,1 @@
-I medfør af § 1 og § 3, stk. 1 og stk. 2, i lov nr. 369 af 6. juni 1991 om sundhedsvæsenet i Grønland fastsættes:
+Herved bekendtgøres Landstingsforordning nr. 10 af 14. november 2004 om tobak og sikring af røgfrie miljøer samt mærkning af tobaksvarer med de ændringer, der følger af Inatsisartutforordning nr. 6 af 26. maj 2010.

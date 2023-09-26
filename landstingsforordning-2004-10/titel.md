@@ -1,1 +1,1 @@
-Landstingsforordning om tobak og sikring af røgfrie miljøer, samt mærkning af tobaksvarer
+Selvstyret lovbekendtgørelse af Landstingsforordning om salg og mærkning af tobaksvarer
