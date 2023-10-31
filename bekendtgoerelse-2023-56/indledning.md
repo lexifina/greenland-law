@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 2, i Inatsisartutlov nr. 33 af 28. november 2019 om ændring af Inatsisartutlov om en satstilpasningsprocent og aktuel indkomst (Ændring af beregningsgrundlaget for aktuel indkomst), fastsættes:
