@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 5, i Inatsisartutlov nr. 41 af 2. december 2019 om ændring af Landstingslov om indkomstskat (Beskæftigelsesfradrag, skattefritagelse af vederlag undergivet den særlige revisionsprocedure for Politiets Efterretningstjeneste og opsparinger i pensionsøjemed), fastsættes:
