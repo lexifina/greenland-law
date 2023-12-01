@@ -1,1 +1,1 @@
-Landstingslov om havneafgift
+Landstingslov om havne- og krydstogtpassagerafgift
