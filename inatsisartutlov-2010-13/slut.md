@@ -1,7 +1,7 @@
-Grønlands Selvstyre, den 26. maj 2010
+Departementet for Boliger og Infrastruktur, den 13. november 2023
 
-Kuupik Kleist
+Ruth Lindhardt (sign.)
 
-/
+Departementschef
 
-Jens B. Frederiksen
+/ Embla Kristjánsdóttir (sign.)

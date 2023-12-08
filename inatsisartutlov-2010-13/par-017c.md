@@ -1,0 +1,1 @@
+§ 17 c. Naalakkersuisut kan bemyndige en anden offentlig myndighed eller et privat selskab til helt eller delvist at etablere, drive og udvikle Bygnings- og Boligregisteret. Naalakkersuisut fastsætter regler for, hvordan myndigheden eller selskabet skal etablere, drive og udvikle registeret.
