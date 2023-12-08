@@ -1,7 +1,7 @@
-# Landstingslov om fiskeri
+# Selvstyrets lovbekendtgørelse af landstingslov om fiskeri
 
-Landstingslov nr. 18 af 31. oktober 1996
+Selvstyrets lovbekendtgørelse nr. 77 af 8. december 2023
 
 Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1996/ltl-18-1996?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-77-af-08_12_2023?sc_lang=da>
