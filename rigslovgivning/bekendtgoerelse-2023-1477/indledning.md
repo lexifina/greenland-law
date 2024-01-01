@@ -1,0 +1,1 @@
+I medfør af § 1, stk. 3, i anordning om ikrafttræden for Grønland af lov om sikkerhed til søs, jf. anordningsbekendtgørelse nr. 1674 af 16. december 2015, fastsættes efter bemyndigelse i henhold til § 1, stk. 1, nr. 2, i bekendtgørelse nr. 279 af 23. marts 2020 for Grønland om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v.:
