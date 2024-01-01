@@ -1,0 +1,1 @@
+I medfør af § 49, stk. 3, i færdselslov for Grønland, jf. lovbekendtgørelse nr. 995 af 26. oktober 2009, fastsættes efter bemyndigelse i henhold til § 4 i bekendtgørelse nr. 664 af 30. maj 2023 om Færdselsstyrelsens opgaver, beføjelser og klageadgang:
