@@ -1,1 +1,1 @@
-Herved bekendtgøres Inatsisartutlov nr. 11 af 6. juni 2016 om kunstnerisk virksomhed med de ændringer, der følger af Inatsisartutlov nr. 25 af 28. november 2019.
+Herved bekendtgøres Inatsisartutlov nr. 11 af 6. juni 2016 om kunstnerisk virksomhed med de ændringer, der følger af Inatsisartutlov nr. 25 af 28. november 2019 og Inatsisartutlov nr. 33 af 13. juni 2023.
