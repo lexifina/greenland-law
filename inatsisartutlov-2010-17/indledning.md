@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 17 af 17. november 2010 om planlægning og arealanvendelse, med de ændringer, der følger af Inatsisartutlov nr. 34 af 9. december 2015 og Inatsisartutlov nr. 66 af 20. november 2023.

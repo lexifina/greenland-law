@@ -1,0 +1,1 @@
+Inatsisartutlov om planlægning og arealanvendelse
