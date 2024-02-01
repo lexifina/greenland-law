@@ -1,0 +1,1 @@
+I medfør af Inatsisartutlov nr. 20 af 26. juni 2017 om støtte til børn, som senest ændret ved Inatsisartutlov nr. 68 af 20. november 2023, § 55 a, stk. 5 samt § 4, stk. 1, og § 6, stk. 2 i landstingsforordning nr. 6 af 28. april 1988 om institutioner med særlige formål for voksne, som ændret ved landstingsforordning nr. 5 af 11. maj 1993, fastsættes:
