@@ -1,7 +1,7 @@
 # Selvstyrets lovbekendtgørelse af Inatsisartutlov om støtte til børn
 
-Selvstyrets lovbekendtgørelse nr. 6 af 1. juni 2022
+Selvstyrets lovbekendtgørelse nr. 11 af 16. marts 2024
 
-Status på Nalunaarutit: Ophævet
+Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2022/L-bkg-06-2022?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2024/Selvstyrets-lovbekendtgoerelse-nr-11-af-16_03_2024?sc_lang=da>

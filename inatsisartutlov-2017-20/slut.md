@@ -1,7 +1,7 @@
-Departementet for Børn, Unge og Familier, den 30. maj 2022
+Departementet for Børn og Unge, den 14. marts 2024
 
-Heidi Lindholm
+Heidi Lindholm (sign.)
 
 Departementschef
 
-/Betina Danielsen
+/ Kirsten Olesen-Nzulumike (sign.)

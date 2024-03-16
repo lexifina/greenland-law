@@ -9,3 +9,9 @@ Inatsisartutlov nr. 6 af 19. november 2021 (Børn anbragt ved dom eller efter re
 § 2
 
 Inatsisartutloven træder i kraft den 1. januar 2022.
+
+Inatsisartutlov nr. 68 af 20. november 2023 (Hjemmel til børne- og familiecentre, fælles digitalt sagsbehandlingssystem, præcisering af Socialstyrelsens opgaver m.m.) [iii][iii] indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Inatsisartutloven træder i kraft den 1. januar 2024.

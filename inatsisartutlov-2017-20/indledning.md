@@ -1,1 +1,1 @@
-Herved bekendtgøres Inatsisartutlov nr. 20 af 26. juni 2017 om støtte til børn med de ændringer, der følger af Inatsisartutlov nr. 36 af 23. november 2017 og Inatsisartutlov nr. 6 af 19. november 2021.
+Herved bekendtgøres Inatsisartutlov nr. 20 af 26. juni 2017 om støtte til børn med de ændringer, der følger af Inatsisartutlov nr. 36 af 23. november 2017, Inatsisartutlov nr. 6 af 19. november 2021 og Inatsisartutlov nr. 68 af 20. november 2023.
