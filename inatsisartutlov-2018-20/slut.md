@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 27. november 2018
+Departementet for Sociale Anliggender, Familier, Arbejdsmarked og Indenrigsanliggender, den 14. marts 2024
 
-Kim Kielsen
+Martha Abelsen (sign.)
+
+Departementschef
+
+/ Karen K. Jakobsen (sign.)

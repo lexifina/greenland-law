@@ -1,7 +1,7 @@
-# Inatsisartutlov om Grønlands Råd for Menneskerettigheder
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om Grønlands Råd for Menneskerettigheder
 
-Inatsisartutlov nr. 20 af 27. november 2018
+Selvstyrets lovbekendtgørelse nr. 14 af 16. marts 2024
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2018/L-20-2018?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2024/Selvstyrets-lovbekendtgoerelse-nr-14-af-16_03_2024?sc_lang=da>
