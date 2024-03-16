@@ -1,5 +1,7 @@
-Grønlands Selvstyre, den 20. juni 2022
+Departementet for Sociale Anliggender, Familier, Arbejdsmarked og Indenrigsanliggender, den 14. marts 2024
 
-Múte Bourup Egede
+Martha Abelsen (sign.)
 
-Formanden for Naalakkersuisut
+Departementchef
+
+/ Karen K. Jakobsen (sign.)
