@@ -6,6 +6,8 @@ Inatsisartutloven træder i kraft den 1. januar 2020. § 1, nr. 1 og 3, har virk
 
 Stk. 2. Udpegning af medlemmer af Børnerådet efter § 6, stk. 2, i Inatsisartutlov om Børnetalsmand og Børneråd, sker efter denne Inatsisartutlovs ikrafttræden første gang alene for en periode på 2 år.
 
-Departementet for Sociale Anliggender og Justitsområdet, den 4. februar 2020
+Inatsisartutlov nr. 30 af 13. juni 2023 (Sproglig rettelse af det grønlandske ord for talsmand)[2] indeholder følgende ikrafttrædelsesbestemmelse:
 
-Julie Præst Wilche
+§ 6
+
+Inatsisartutloven træder i kraft dagen efter Inatsisartutlovens kundgørelse.

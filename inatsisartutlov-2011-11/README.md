@@ -1,7 +1,7 @@
-# Selvstyrets lovbekendtgørelse af Inatsisartutlov om Børnetalsmand og Børneråd
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om børnetalsmand og børneråd
 
-Selvstyrets lovbekendtgørelse nr. 1 af 4. februar 2020
+Selvstyrets lovbekendtgørelse nr. 10 af 16. marts 2024
 
-Status på Nalunaarutit: Ophævet
+Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2020/L-bkg-01-2020?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2024/Selvstyrets-lovbekendtgoerelse-nr-10-af-16_03_2024?sc_lang=da>

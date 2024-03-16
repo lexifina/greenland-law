@@ -1,1 +1,1 @@
-Inatsisartutlov om Børnetalsmand og Børneråd
+Inatsisartutlov om børnetalsmand og børneråd
