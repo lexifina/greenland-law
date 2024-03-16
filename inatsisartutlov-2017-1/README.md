@@ -1,7 +1,7 @@
-# Inatsisartutlov om Handicaptalsmand
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om handicaptalsmand
 
-Inatsisartutlov nr. 1 af 29. maj 2017
+Selvstyrets lovbekendtgørelse nr. 12 af 16. marts 2024
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-01-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2024/Selvstyrets-lovbekendtgoerelse-nr-12-af-16_03_2024?sc_lang=da>

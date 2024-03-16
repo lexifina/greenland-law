@@ -1,1 +1,1 @@
-Inatsisartutlov om Handicaptalsmand
+Inatsisartutlov om handicaptalsmand

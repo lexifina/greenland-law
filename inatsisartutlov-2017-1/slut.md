@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 29. maj 2017
+Departementet for Børn og Unge, den 14. marts 2024
 
-Kim Kielsen
+Heidi Lindholm (sign.)
+
+Departementschef
+
+/ Kirsten Olesen-Nzulumike (sign.)
