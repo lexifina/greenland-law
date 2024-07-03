@@ -1,7 +1,7 @@
-Grønlands Hjemmestyre, den 11. december 2003
+Departementet for Finanser og Skatter, den 26. juni 2024
 
-Hans Enoksen
+Nikolai Sten Christensen (sign.)
 
-/
+Departementschef
 
-Josef Motzfeldt
+/ Morten Wenzel Selvejer (sign.)

@@ -1,1 +1,1 @@
-Landstingslov om afgift på ethanolholdige drikke, der er fremstillet i Grønland
+landstingslov om afgift af visse drikkevarer fremstillet i Grønland

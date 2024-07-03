@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 20 af 11. december 2003 om afgift på ethanolholdige drikke, der er fremstillet i Grønland med de ændringer, der følger af landstingslov nr. 1 af 26. april 2007, landstingslov nr. 9 af 19. oktober 2007, Inatsisartutlov nr. 2 af 24. maj 2019 og Inatsisartutlov nr. 69 af 20. november 2023.
