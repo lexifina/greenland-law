@@ -1,7 +1,7 @@
-Grønlands Hjemmestyre, den 30. oktober 1992
+Departementet for Finanser og Skatter, den 12. juli 2024
 
-Lars Emil Johansen
+Nikolai Sten Christensen (sign.)
 
-/
+Departementschef
 
-Emil Abelsen
+/ Morten Wenzel Selvejer (sign.)
