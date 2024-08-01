@@ -1,1 +1,0 @@
-Hjemmestyrets bekendtgørelse om censorer ved Ilisimatusarfik
