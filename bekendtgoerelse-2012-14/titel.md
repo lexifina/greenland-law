@@ -1,1 +1,0 @@
-Selvstyrets bekendtgørelse om klage til Sundhedsvæsenets Disciplinærnævn

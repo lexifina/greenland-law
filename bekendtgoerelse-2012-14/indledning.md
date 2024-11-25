@@ -1,1 +1,0 @@
-I medfør af § 11a i Inatsisartutlov nr. 27 af 18. november 2010 om sundhedsvæsenets styrelse, organisation samt sundhedsfaglige personer og psykologer, som ændret ved Inatsisartutlov nr. 2 af 29. maj 2012, fastsættes:
