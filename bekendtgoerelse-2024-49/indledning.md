@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 1, § 3, § 11, stk. 2 og 3, § 16, § 16 a, stk. 1 og 2, § 18, stk. 1-3, § 19, stk. 2 og 3, § 20, § 22, stk. 2, § 35, stk. 1 og 2, § 39, § 40, § 42, stk. 2 og § 46, stk. 6, i Landstingslov nr. 18 af 30. oktober 1992 om ind- og udførsel af varer, som senest ændret ved Inatsisartutlov nr. 64 af 20. november 2023, fastsættes:
