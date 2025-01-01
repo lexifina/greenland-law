@@ -1,0 +1,1 @@
+Inatsisartutlov om erhvervsuddannelser og kurser på erhvervsuddannelsesområdet
