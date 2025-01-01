@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 1, nr. 6, 20 og 27, § 11, § 28, stk. 3, § 34, nr. 1 og 2, § 56, stk. 1, og § 66, stk. 3, i Inatsisartutlov nr. 9 af 22. november 2011 om beskyttelse af miljøet, som senest ændret ved Inatsisartutlov nr. 16 af 1. december 2021, og § 39, stk. 5, § 46, stk. 1 og 2, og § 60, stk. 2, i landstingslov nr. 29 af 18. december 2003 om naturbeskyttelse, fastsættes:
