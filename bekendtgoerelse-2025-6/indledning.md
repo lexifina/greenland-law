@@ -1,0 +1,1 @@
+I medfør af § 82, stk. 1, § 82, stk. 5, og § 83, stk. 5, i landstingsforordning om leje af boliger, jf. Selvstyrets lovbekendtgørelse nr. 52 af 17. oktober 2023, som ændret ved Inatsisartutlov nr. 55 af 25. november 2024, fastsættes:
