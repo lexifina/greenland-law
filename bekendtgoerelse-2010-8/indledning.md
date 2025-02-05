@@ -1,1 +1,0 @@
-I henhold til § 30, stk. 1, nr. 4, §§ 33-33 d, § 35, § 36, stk. 2, § 37, stk. 2, § 39, stk. 3, § 56, stk. 1, og § 83 i landstingslov nr. 11 af 2. november 2006 om forvaltning af skatter, som senest ændret ved landstingslov nr. 10 af 5. december 2008, fastsættes:
