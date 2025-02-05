@@ -1,0 +1,1 @@
+I henhold til § 33, stk. 1-4, § 33 a, stk. 1-4, § 33 d, § 35, stk. 1 og 2, § 56, stk. 1, og § 83, stk. 1 og 2 i landstingslov nr. 11 af 2. november 2006 om forvaltning af skatter, som senest ændret ved Inatsisartutlov nr. 56 af 25. november 2024, fastsættes:
