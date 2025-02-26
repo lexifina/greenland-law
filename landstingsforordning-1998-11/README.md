@@ -1,7 +1,7 @@
-# Landstingsforordning om ældreinstitutioner mv.
+# Selvstyrets lovbekendtgørelse af Landstingsforordning om ældreinstitutioner mv.
 
-Landstingsforordning nr. 11 af 30. oktober 1998
+Selvstyrets lovbekendtgørelse nr. 21 af 26. februar 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1998/ltf-11-1998?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-21-af-26_02_2025?sc_lang=da>
