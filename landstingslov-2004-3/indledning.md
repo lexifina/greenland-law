@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 3 af 21. maj 2004 om genetableringsstøtte til erhvervsfiskere, erhvervsfangere og udøvere af erhvervsmæssigt landbrug, med de ændringer, der følger af Inatsisartutlov nr. 57 af 25. november 2024
