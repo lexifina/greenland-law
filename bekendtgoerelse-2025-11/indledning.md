@@ -1,0 +1,1 @@
+I medfør af § 15, nr. 1–5, § 17, stk. 1, § 18, stk. 1 og 2, § 25, stk. 3, 2. pkt., § 27, stk. 1, § 28, stk. 2, § 29, stk. 4, § 30, stk. 3, § 40, stk. 4, § 41, stk. 3, og § 68, stk. 2, i inatsisartutlov nr. 29 af 23. maj 2024 om fiskeri, fastsættes:
