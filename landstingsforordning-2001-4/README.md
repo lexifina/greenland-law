@@ -1,7 +1,7 @@
-# Landstingsforordning om revalidering
+# Selvstyrets lovbekendtgørelse af Landstingsforordning om revalidering
 
-Landstingsforordning nr. 4 af 31. maj 2001
+Selvstyrets lovbekendtgørelse nr. 22 af 7. marts 2025
 
-Status på Nalunaarutit: Gældende
+Status på Nalunaarutit: Ophævet
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2001/ltf-04-2001?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-22-af-07_03_2025?sc_lang=da>
