@@ -1,7 +1,7 @@
-# Inatsisartutlov om lån til medbyggerhuse
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om lån til medbyggerhuse
 
-Inatsisartutlov nr. 28 af 3. december 2018
+Selvstyrets lovbekendtgørelse nr. 25 af 10. marts 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2018/L-28-2018?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-25-af-10_03_2025?sc_lang=da>

@@ -1,0 +1,1 @@
+§ 10 b. Betalte ydelser på lån til medbyggerhuse ydet i medfør af denne Inatsisartutlov overføres til en pulje til kommunale lån eller tilskud til planlagt periodisk vedligeholdelse og renovering af medbyggerhuse.

@@ -1,0 +1,1 @@
+§ 10 e. Der kan ydes lån med op til kr. 100.000. Når et lån er tilbagebetalt, kan der ansøges om et nyt lån. Lånet ydes som et annuitetslån med en løbetid over 15 år. Lånet forrentes med en rente svarende til nationalbankens diskonto med et tillæg på 3 %-point. Renten fastsættes på datoen for lånets udbetaling.
