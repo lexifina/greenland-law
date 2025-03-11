@@ -1,7 +1,7 @@
-# Landstingslov om regulering af arbejdskrafttilgangen i Grønland
+# Selvstyrets lovbekendtgørelse af landstingslov om regulering af arbejdskrafttilgangen i Grønland
 
-Landstingslov nr. 27 af 30. oktober 1992
+Selvstyrets lovbekendtgørelse nr. 23 af 11. marts 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1992/ltl-27-1992?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-23-af-07_03_2025?sc_lang=da>

@@ -1,0 +1,1 @@
+Herved bekendtgøres Landstingslov nr. 27 af 30. oktober 1992 om regulering af arbejdskrafttilgangen i Grønland med de ændringer, der følger af Inatsisartutlov nr. 27 af 9. december 2015, Inatsisartutlov nr. 23 af 28. november 2016 og Inatsisartutlov nr. 22 af 13. november 2017.

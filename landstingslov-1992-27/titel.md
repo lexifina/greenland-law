@@ -1,1 +1,1 @@
-Landstingslov om regulering af arbejdskrafttilgangen i Grønland
+landstingslov om regulering af arbejdskrafttilgangen i Grønland
