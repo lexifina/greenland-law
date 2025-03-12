@@ -1,1 +1,1 @@
-Inatsisartutlov om jobsøgningsydelse
+Inatsisartutlov om Jobsøgningsydelse

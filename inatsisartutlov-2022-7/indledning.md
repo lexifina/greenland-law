@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 7 af 20. juni 2022 om jobsøgningsydelse med de ændringer, der følger af Inatsisartutlov nr. 25 af 25. november 2022, Inatsisartutlov nr. 32 af 13. juni 2023 og Inatsisartutlov nr. 71 af 20. november 2023.
