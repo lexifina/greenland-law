@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 37 af 28. novemeber 2019 om Ældretalsmand med de ændringer, der følger af Inatsisartutlov nr. 14 af 1. december 2021 og Inatsisartutlov nr. 30 af 13. juni 2023.
