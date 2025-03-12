@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 5 af 8. juni 2014 om arbejdsformidling m.v. med de ændringer, der følger af Inatsisartutlov nr. 6 af 3. juni 2015, Inatsisartutlov nr. 32 af 9. december 2015 og Inatsisartutlov nr. 28. af 9. december 2015.
