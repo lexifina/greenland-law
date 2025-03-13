@@ -1,7 +1,7 @@
-# Inatsisartutlov om boligstøttelån
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om boligstøttelån
 
-Inatsisartutlov nr. 40 af 28. november 2019
+Selvstyrets lovbekendtgørelse nr. 29 af 13. marts 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2019/L-40-2019?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-29-af-13_03_2025?sc_lang=da>
