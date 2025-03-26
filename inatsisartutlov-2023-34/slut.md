@@ -1,5 +1,9 @@
-Grønlands Selvstyre, den 13. juni 2023
+Departementet for Fiskeri og Fangst, den 24. marts 2025
 
-Múte Bourup Egede (sign.)
+Emanuel Rosing (sign.)
 
-Formand for Naalakkersuisut
+Departementschef
+
+/ Thomas Rassing (sign.)
+
+[1] Lovændringen vedrører § 10, § 13, stk. 7 og § 16a.

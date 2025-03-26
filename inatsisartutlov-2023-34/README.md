@@ -1,7 +1,7 @@
-# Inatsisartutlov om fangst og jagt
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om fangst og jagt
 
-Inatsisartutlov nr. 34 af 13. juni 2023
+Selvstyrets lovbekendtgørelse nr. 30 af 26. marts 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Inatsisartutlov-nr-34-af-13_06_2023?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-30-af-25_03_2025?sc_lang=da>
