@@ -1,1 +1,1 @@
-Landstingsforordning om overtagelse af Hjemmestyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig
+Landstingsforordning om overtagelse af Selvstyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig

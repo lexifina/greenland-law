@@ -1,1 +1,1 @@
-I medfør af § 1 i Lov for Grønland nr. 944 af 23. december 1986 om boligforsyning, boligstøtte, leje af boliger m.v. fastsættes:
+Herved bekendtgøres landstingsforordning nr. 12 af 19. november 2007 om overtagelse af Hjemmestyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig, med de ændringer, der følger af Inatsisartutlov nr. 26 af 17. november 2017, Inatsisartutlov nr. 15 af 27. november 2018 og Inatsisartutlov nr. 66 af 6. december 2024.

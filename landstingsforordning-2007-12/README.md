@@ -1,7 +1,7 @@
-# Landstingsforordning om overtagelse af Hjemmestyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig
+# Selvstyrets lovbekendtgørelse af Landstingsforordning om overtagelse af Selvstyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig
 
-Landstingsforordning nr. 12 af 19. november 2007
+Selvstyrets lovbekendtgørelse nr. 31 af 28. marts 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2007/ltf-12-2007?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-31-af-27_03_2025?sc_lang=da>

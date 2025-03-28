@@ -1,0 +1,1 @@
+§ 14 d. Pantebreve og gældsbreve til Grønlands Selvstyre eller de grønlandske kommuner udstedt i henhold til denne landstingsforordning eller tidligere lovgivning om overtagelse af Selvstyrets og kommunernes udlejningsejendomme som ejerlejlighed eller ejerbolig, kan ikke gøres til genstand for omsætning, pantsætning eller kreditorforfølgning.
