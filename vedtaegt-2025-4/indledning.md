@@ -1,0 +1,1 @@
+I medfør af § 13, stk. 1 i Landstingslov nr. 18 af 30. oktober 1998 om slædehunde samt hunde- og kattehold, som senest ændret ved Inatsisartutlov nr. 24 af 28. november 2016 samt Hjemmestyrets bekendtgørelse om kommunale hunde- og kattevedtægter nr. 15 af 19. juni 2003 fastsættes:
