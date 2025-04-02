@@ -1,7 +1,7 @@
-# Selvstyrets lovbekendtgørelse af Landstingsforordning om leje af boliger
+# Selvstyrets lovbekendtgørelse af landstingsforordning om leje af boliger
 
-Selvstyrets lovbekendtgørelse nr. 52 af 17. oktober 2023
+Selvstyrets lovbekendtgørelse nr. 32 af 2. april 2025
 
-Status på Nalunaarutit: Ophævet
+Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2023/Selvstyrets-lovbekendtgoerelse-nr-52-af-17_10_2023?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-32-af-01_04_2025?sc_lang=da>
