@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 33 af 23 november 2017 om andelsboliger med de ændringer, der følger af Inatsisartutlov nr. 19 af 27. november 2018 og Inatsisartutlov nr. 64 af 6. december 2024.

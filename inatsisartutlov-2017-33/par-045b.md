@@ -1,0 +1,1 @@
+§ 45 b. Naalakkersuisut eller kommunalbestyrelsen kan som led i omdannelsen og stiftelse af andelsboligforeningen pålægge udlejningsejendommen og andelsboligforeningen tilslutningspligt til offentlig forsyning med el, vand, varme og kloak og fastsætte vilkår herfor.

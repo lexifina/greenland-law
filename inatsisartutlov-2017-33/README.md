@@ -1,7 +1,7 @@
-# Inatsisartutlov om andelsboliger
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om andelsboliger
 
-Inatsisartutlov nr. 33 af 23. november 2017
+Selvstyrets lovbekendtgørelse nr. 33 af 2. april 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-33-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-33-af-01_04_2025?sc_lang=da>
