@@ -1,0 +1,1 @@
+§ 37 a. Pantebreve og gældsbreve til Grønlands Selvstyre og de grønlandske kommuner udstedt i henhold til denne Inatsisartutlov eller tidligere lovgivning om boligfinansiering kan ikke gøres til genstand for omsætning, pantsætning eller kreditorforfølgning.

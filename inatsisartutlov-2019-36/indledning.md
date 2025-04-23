@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov om boligfinansiering nr. 39 af 23. november 2017 med de ændringer, der følger af Inatsisartutlov nr. 36 af 28. november 2019 og Inatsisartutlov nr. 19 af 30. november 2020, Inatsisartutlov nr. 28 af 13. juni 2023 og Inatsisartutlov nr. 54 af 25. november 2024.
