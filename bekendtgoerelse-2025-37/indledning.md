@@ -1,0 +1,1 @@
+I medfør af § 10, stk. 1, nr. 3 og 20, § 56, stk. 1, og § 66, stk. 3, i Inatsisartutlov nr. 9 af 22. november 2011 om beskyttelse af miljøet, som ændret ved Inatsisartutlov nr. 16 af 1. december 2021, og § 33, § 45, stk. 4, § 49, stk. 1, og § 63 i Inatsisartutlov nr. 15 af 8. juni 2017 om beskyttelse af havmiljøet, fastsættes:
