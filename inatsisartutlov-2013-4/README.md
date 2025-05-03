@@ -1,7 +1,7 @@
-# Inatsisartutlov om uddannelses- og erhvervsvejledning
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om uddannelses- og erhvervsvejledning
 
-Inatsisartutlov nr. 4 af 29. november 2013
+Selvstyrets lovbekendtgørelse nr. 38 af 3. maj 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2013/L-04-2013?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-38-af-02_05_2025?sc_lang=da>

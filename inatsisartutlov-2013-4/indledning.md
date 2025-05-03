@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 4 af 29. november 2013 om uddannelses- og erhvervsvejledning med de ændringer, der følger af Inatsisartutlov nr. 12 af 27. november 2018 og Inatsisartutlov nr. 18 af 1. december 2021.
