@@ -1,0 +1,1 @@
+Herved bekendtgøres Landstingslov nr. 10 af 2. november 2006 om arbejdsmarkedsafgift med de ændringer, der følger af Landstingslov nr. 5 af 26. april 2007, Inatsisartutlov nr. 11 af 3. juni 2015, Inatsisartutlov nr. 9 af 19. november 2020 og Inatsisartutlov nr. 51 af 25. november 2024.
