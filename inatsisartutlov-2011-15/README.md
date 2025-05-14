@@ -1,7 +1,7 @@
-# Inatsisartutlov om offentliggørelse af politiske partiers regnskaber
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om partiregnskaber og om private bidrag til politisk arbejde
 
-Inatsisartutlov nr. 15 af 22. november 2011
+Selvstyrets lovbekendtgørelse nr. 45 af 14. maj 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2011/ltl-15-2011?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-45-af-13_05_2025?sc_lang=da>

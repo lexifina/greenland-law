@@ -1,1 +1,1 @@
-Inatsisartutlov om offentliggørelse af politiske partiers regnskaber
+Inatsisartutlov om partiregnskaber og om private bidrag til politisk arbejde
