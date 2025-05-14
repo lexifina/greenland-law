@@ -1,7 +1,7 @@
-# Landstingslov om økonomisk tilskud til politisk arbejde
+# Selvstyrets lovbekendtgørelse af Landstingslov om økonomisk tilskud til politisk arbejde
 
-Landstingslov nr. 1 af 31. maj 2001
+Selvstyrets lovbekendtgørelse nr. 44 af 14. maj 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2001/ltl-01-2001?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-44-af-13_05_2025?sc_lang=da>
