@@ -1,0 +1,1 @@
+I medfør af § 13, stk. 3, og § 20, stk. 6, i Inatsisartutlov nr. 26 af 28. november 2016 om kommunernes og Grønlands Selvstyres budgetter og regnskaber, som ændret ved Inatsisartutlov nr. 63 af 20. november 2023, og § 5, stk. 5, i Inatsiartutlov nr. 17 af 17. november 2010 om planlægning og arealanvendelse, som ændret ved Inatsisartutlov nr. 66 af 20. november 2023 fastsættes:
