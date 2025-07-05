@@ -1,7 +1,7 @@
-# Inatsisartutlov om børnetilskud
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om børnetilskud
 
-Inatsisartutlov nr. 9 af 7. december 2009
+Selvstyrets lovbekendtgørelse nr. 51 af 5. juli 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2009/ltl-09-2009?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-51-af-04_07_2025?sc_lang=da>
