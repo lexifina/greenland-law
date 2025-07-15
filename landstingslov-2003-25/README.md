@@ -1,7 +1,7 @@
-# Landstingslov om dyreværn
+# Selvstyrets lovbekendtgørelse af Landstingslov om dyreværn
 
-Landstingslov nr. 25 af 18. december 2003
+Selvstyrets lovbekendtgørelse nr. 56 af 15. juli 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2003/ltl-25-2003?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-56-af-15_07_2025?sc_lang=da>

@@ -1,7 +1,9 @@
-Grønlands Hjemmestyre, den 18. december 2003.
+Departementet for Fiskeri og Fangst, den 14. juli 2025
 
-Hans Enoksen
+Emanuel Rosing (sign.)
 
-/
+Departementschef
 
-Johan Lund Olsen
+/ Thomas Rassing (sign.)
+
+[1] Lovændringen vedrører §1, § 3a, § 22, §§23-27.
