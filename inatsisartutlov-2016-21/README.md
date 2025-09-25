@@ -1,7 +1,7 @@
-# Inatsisartutlov om obligatorisk pensionsordning
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om obligatorisk pensionsordning
 
-Inatsisartutlov nr. 21 af 28. november 2016
+Selvstyrets lovbekendtgørelse nr. 67 af 25. september 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2016/L-21-2016?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-67-af-25_09_2025?sc_lang=da>

@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 21 af 28. november 2016 om obligatorisk pensionsordning, med de ændringer, der følger af Inatsisartutlov nr. 16 af 12. juni 2019, Inatsisartutlov nr. 18 af 30. november 2020 og Inatsisartutlov nr. 29 af 25 november 2022.
