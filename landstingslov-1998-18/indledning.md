@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 18 af 30. oktober 1998 om slædehunde samt hunde- og kattehold med de ændringer der følger af Inatsisartutlov nr. 28 af 18. november 2010, Inatsisartutlov nr. 23 af 22. november 2011 samt Inatsisartutlov nr. 24 af 28. november 2016.

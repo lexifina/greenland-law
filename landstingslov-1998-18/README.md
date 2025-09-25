@@ -1,7 +1,7 @@
-# Landstingslov om slædehunde samt hunde- og kattehold
+# Selvstyrets lovbekendtgørelse af Landstingslov om slædehunde samt hunde- og kattehold
 
-Landstingslov nr. 18 af 30. oktober 1998
+Selvstyrets lovbekendtgørelse nr. 65 af 25. september 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1998/ltl-18-1998?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-65-af-25_09_2025?sc_lang=da>
