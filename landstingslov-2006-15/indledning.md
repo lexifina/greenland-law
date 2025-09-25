@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 15 af 20. november 2006 om fiskerifinansieringspulje, med de ændringer der følger af landstingslov nr. 11 af 5. december 2008, Inatsisartutlov nr. 13 af 2. december 2009, Inatsisartutlov nr. 22 af 22. november 2011, Inatsisartutlov nr. 8 af 3. december 2012 samt Inatsisartutlov nr. 26 af 9. december 2015.

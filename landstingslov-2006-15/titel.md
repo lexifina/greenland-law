@@ -1,1 +1,1 @@
-Landstingslov om fiskerifinansieringspulje
+landstingslov om fiskerifinansieringspulje

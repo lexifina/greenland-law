@@ -1,7 +1,7 @@
-# Landstingslov om fiskerifinansieringspulje
+# Selvstyrets lovbekendtgørelse af landstingslov om fiskerifinansieringspulje
 
-Landstingslov nr. 15 af 20. november 2006
+Selvstyrets lovbekendtgørelse nr. 66 af 25. september 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2006/ltl-15-2006?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-66-af-25_09_2025?sc_lang=da>
