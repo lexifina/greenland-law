@@ -1,7 +1,7 @@
-# Landstingslov om landbrug
+# Selvstyrets lovbekendtgørelse af landstingslov om landbrug
 
-Landstingslov nr. 5 af 2. maj 1996
+Selvstyrets lovbekendtgørelse nr. 68 af 30. september 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1996/ltl-05-1996?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-68-af-30_09_2025?sc_lang=da>

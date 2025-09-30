@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 5 af 2. maj 1996 om landbrug, med de ændringer der følger af landstingslov nr. 15 af 19. november 2007, landstingslov nr. 11 af 5. december 2008 samt inatsisartutlov nr. 21 af 22. november 2011.

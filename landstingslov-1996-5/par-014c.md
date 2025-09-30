@@ -1,0 +1,1 @@
+§ 14 c. Naalakkersuisut kan fastsætte regler om Landbrugsrådets virke og kompetence. Naalakkersuisut kan fastsætte regler, der bemyndiger Landbrugsrådet til, på Naalakkersuisuts vegne at varetage opgaver i henhold til landstingsloven og regler fastsat i medfør heraf, herunder kompetence til at træffe afgørelser og føre tilsyn.

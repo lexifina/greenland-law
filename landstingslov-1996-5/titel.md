@@ -1,1 +1,1 @@
-Landstingslov om landbrug
+landstingslov om landbrug

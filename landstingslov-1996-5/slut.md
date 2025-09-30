@@ -1,7 +1,11 @@
-Grønlands Hjemmestyre, den 2. maj 1996
+Departementet for Fiskeri, Fangst, Landbrug og Selvforsyning, den 29. september 2025
 
-Lars Emil Johansen
+Emanuel Rosing (sign.)
 
-/
+Departementschef
 
-Pâviâraq Heilmann
+/ Thomas Rassing (sign.)
+
+[1] Lovændringen vedrører § 14a-14d.
+
+[2] Lovændringen vedrører § 14a, stk. 1, nr. 4-6
