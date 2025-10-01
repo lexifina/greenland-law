@@ -1,0 +1,1 @@
+Selvstyrets bekendtgørelse om honorering af Grønlands Filminstituts bestyrelsesmedlemmer
