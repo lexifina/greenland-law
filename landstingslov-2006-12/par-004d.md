@@ -1,0 +1,3 @@
+§ 4 d. For hver af ægtefællerne beregnes indkomstskatten på grundlag af deres skattepligtige indkomster.
+
+Stk. 2. Hvis en ægtefælles skattepligtige indkomst udviser underskud, og ægtefællerne er samlevende ved indkomstårets udløb, skal underskuddet i størst muligt omfang fradrages i den anden ægtefælles skattepligtige indkomst. Fradraget skal ske før den anden ægtefælles uudnyttede underskud fra tidligere indkomstår fremføres efter § 30, stk. 1. Ved opgørelsen af ægtefællernes skattepligtige indkomst ses der i denne forbindelse bort fra indtægter, der beskattes i udlandet og ikke her i landet. Bestemmelsen i 2. pkt. finder dog ikke anvendelse, hvor indkomstskatten er nedsat med fradrag i indkomstskatten i henhold til § 69.

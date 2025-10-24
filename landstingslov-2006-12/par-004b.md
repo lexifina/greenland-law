@@ -1,0 +1,1 @@
+§ 4 b. Formueindkomst medregnes ved indkomstopgørelsen for den af ægtefællerne, der efter lovgivning vedrørende ægteskab har rådighed over formuegodet eller, for så vidt angår fradragsberettigede udgifter, hæfter for betalingen. Kan det ikke afgøres, hvem af ægtefællerne et indkomstskattepligtigt beløb vedrører, medregner hver ægtefælle halvdelen.

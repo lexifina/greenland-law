@@ -1,0 +1,3 @@
+§ 40 a. Forsikringer, hvis ydelser i alle tilfælde udbetales i en vis periode uanset den forsikredes død (garanterede ydelser), men som i øvrigt opfylder betingelserne i § 39, § 39 a eller § 40 behandles efter reglerne for pensionsordninger med løbende livsvarige ydelser, såfremt præmien for garantien ikke overstiger 10 pct. af præmien for den samlede forsikring.
+
+Stk. 2. Det er dog en betingelse, at der ikke i policen er indsat andre begunstigede end enten forsikredes »nærmeste pårørende« i forsikringsaftalelovens forstand, eller forsikredes ægtefælle eller fraskilte ægtefælle, forsikredes livsarvinger, stedbørn eller stedbørns livsarvinger eller en navngiven person, der har fælles bopæl med forsikrede ved indsættelsen, eller dennes livsarvinger.

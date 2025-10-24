@@ -1,0 +1,7 @@
+§ 4 c. Skattemæssige afskrivninger på aktiver, der anvendes i en af en gift person drevet erhvervsvirksomhed, foretages af den pågældende, uanset om aktivet tilhører den pågældende eller den pågældendes samlevende ægtefælle.
+
+Stk. 2. Overdrager eller overfører en ægtefælle aktiver til den samlevende ægtefælle til anvendelse i dennes erhvervsvirksomhed, skal fortjeneste eller tab, som derved fremkommer, ikke medregnes ved opgørelsen af den førstnævnte ægtefælles skattepligtige indkomst. Efter overdragelsen eller overførslen behandles aktiverne med hensyn til skattemæssige afskrivninger, som om de var anskaffet af den sidstnævnte ægtefælle på de tidspunkter og til de beløb, hvortil de i sin tid er anskaffet, og eventuelle afskrivninger, som tidligere er foretaget, anses for foretaget af den pågældende.
+
+Stk. 3. Foranstående regler gælder ikke ved overdragelse af varer hørende til en af den overdragende ægtefælle drevet erhvervsvirksomhed.
+
+Stk. 4. Reglerne i stk. 2 finder ikke anvendelse ved overdragelse eller overførsel af aktiver til ægtefællen, når denne ændrer benyttelsen af aktiver fra udelukkende erhvervsmæssig benyttelse til privat benyttelse eller omvendt. En sådan ændring behandles som salg henholdsvis køb af de pågældende aktiver. Det samme gælder ved ændring fra eller delvis erhvervsmæssig benyttelse. Som salgssum eller købesum anvendes handelsværdien på det tidspunkt, hvor benyttelsen ændres.

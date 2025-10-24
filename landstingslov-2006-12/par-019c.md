@@ -1,0 +1,1 @@
+§ 19 c. Fra og med indkomståret 2023 reguleres værdierne i § 19, stk. 2-4, § 19 a, stk. 2, nr. 1-2, og § 19 a, stk. 4-6, med satstilpasningsprocenten. Værdierne nedrundes til nærmeste hele kronebeløb. Skatteforvaltningen meddeler årligt de for indkomståret gældende satser senest den 10. oktober i kalenderåret forud for det indkomstår, hvor satserne skal gælde.

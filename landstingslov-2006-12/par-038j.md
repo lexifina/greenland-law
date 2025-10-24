@@ -1,0 +1,5 @@
+§ 38 j. Uanset § 86, stk. 1 og 2, skal selskaber omfattet af § 38 h, stk. 1-4, der er omfattet af reglerne i dette kapitel, ved udlodningen af udbytter indeholde en udbytteskat på 24 procent, jf. dog stk. 2. Det indeholdte beløb benævnes udbytteskat,og er en endelig skat. Indeholdelsen går forud for andre krav på udbyttet, herunder modkrav fra aktie- eller anpartsselskabet. Indeholdelsen og meddelelse til skatteforvaltningen m.v. skal ske efter reglerne i § 88.
+
+Stk. 2. Udbytteskattesatsen i det i stk. 1 nævnte tilfælde er dog 14,67 procent, hvis skatteforvaltningen anses for skattekommune for det udbyttegivende selskab, jf. § 68, stk. 2.
+
+Stk. 3. Hvis modtageren er et andet selskab, omfattet af kapitel 3 b, udgør udbytteskattesatsen dog 0 procent. 1. pkt. finder ikke anvendelse, hvis udbyttet fra det grønlandske selskab er en videreudlodning af udbytte, som dette selskab har modtaget direkte eller indirekte af datterselskabsaktier, i et selskab hjemmehørende i udlandet, og det grønlandske selskab ikke var retmæssig ejer af det modtagne udbytte.

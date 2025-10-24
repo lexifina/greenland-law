@@ -1,7 +1,7 @@
-# Landstingslov om indkomstskat
+# Selvstyrets lovbekendtgørelse af Landstingslov om indkomstskat
 
-Landstingslov nr. 12 af 2. november 2006
+Selvstyrets lovbekendtgørelse nr. 62 af 24. oktober 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2006/ltl-12-2006?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-62-af-24_09_2025?sc_lang=da>

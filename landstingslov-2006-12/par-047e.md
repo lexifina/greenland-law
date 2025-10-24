@@ -1,0 +1,3 @@
+§ 47 e. En ejer af en opsparing i pensionsøjemed kan købe og sælge aktiver i et depot, der er knyttet til opsparingskontoen, men kan ikke hæve beløb, der er fremkommet ved salg af aktiver, fra opsparingskontoen. Disse beløb skal enten blive stående som kontantbeløb eller geninvesteres i det tilknyttede depot, jf. dog § 41, stk. 3, og § 46 om udbetaling af opsparede beløb til beskatning, før ejeren fylder 60 år.
+
+Stk. 2. Overførsel af en opsparing i pensionsøjemed mellem pengeinstitutter som nævnt i § 47 a eller mellem pengeinstitutter som nævnt i § 47 a og pensionskasser og livs- og pensionsforsikringsselskaber med hjemsted i Grønland behandles ikke som ud- og indbetalinger.
