@@ -1,0 +1,1 @@
+I medfør af § 2, stk. 2, i Inatsisartutlov nr. 64 af 20. november 2023 om ændring af landstingslov om ind- og udførsel af varer, § 35 a, stk. 4, og § 46, stk. 6, i landstingslov nr. 18 af 30 oktober 1992 om ind- og udførsel af varer, som senest ændret ved Inatsisartutlov nr. 64 af 20. november 2023, fastsættes:
