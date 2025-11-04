@@ -1,7 +1,7 @@
-# Inatsisartutlov om erhvervsfremme til landbaserede erhverv
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om generel erhvervsfremme
 
-Inatsisartutlov nr. 20 af 3. december 2012
+Selvstyrets lovbekendtgørelse nr. 70 af 4. november 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2012/ltl-20-2012?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-70-af-04_11_2025?sc_lang=da>

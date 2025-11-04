@@ -1,0 +1,1 @@
+§1 a. Der kan oprettes en pulje til finansiering af inkubatorordninger med det formål at støtte tidsbegrænsede inkubatorforløb, der omfatter kurser og rådgivning for visse iværksættere, og som vurderes at medføre samfundsøkonomiske fordele i form af for eksempel flere eller mere omfattende erhvervsaktiviteter eller øget beskæftigelse af arbejdstagere i erhvervsvirksomheder.

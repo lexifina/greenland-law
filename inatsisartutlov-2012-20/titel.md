@@ -1,1 +1,1 @@
-Inatsisartutlov om erhvervsfremme til landbaserede erhverv
+Inatsisartutlov om generel erhvervsfremme

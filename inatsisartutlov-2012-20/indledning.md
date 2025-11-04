@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 20 af 3. December 2012, om erhvervsfremme til landbaserede erhverv med de ændringer, der følger af Inatsisartutlov nr. 4 af 3. Juni 2016, Inatsisartutlov nr. 27 af 17. November 2017, Inatsisartutlov nr. 21 af 1. December 2021 og Inatsisartutlov nr. 61 af 25. November 2024.
