@@ -1,1 +1,1 @@
-Landstingsforordning vedrørende Grønlands tekniske Organisation
+landstingsforordning om Grønlands tekniske Organisation

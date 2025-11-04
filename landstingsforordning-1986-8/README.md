@@ -1,7 +1,7 @@
-# Landstingsforordning vedrørende Grønlands tekniske Organisation
+# Selvstyrets lovbekendtgørelse af landstingsforordning om Grønlands tekniske Organisation
 
-Landstingsforordning nr. 8 af 19. december 1986
+Selvstyrets lovbekendtgørelse nr. 71 af 4. november 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1986/ltf-08-1986?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-71-af-04_11_2025?sc_lang=da>
