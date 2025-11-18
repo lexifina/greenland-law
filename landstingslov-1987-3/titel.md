@@ -1,1 +1,1 @@
-Landstingslov om afgift af motorkøretøjer
+landstingslov om afgift af motorkøretøjer

@@ -1,7 +1,7 @@
-# Landstingslov om afgift af motorkøretøjer
+# Selvstyrets lovbekendtgørelse af landstingslov om afgift af motorkøretøjer
 
-Landstingslov nr. 3 af 16. juni 1987
+Selvstyrets lovbekendtgørelse nr. 76 af 18. november 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/1987/ltl-03-1987?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-76-af-18_11_2025?sc_lang=da>
