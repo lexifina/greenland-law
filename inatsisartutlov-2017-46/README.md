@@ -1,7 +1,7 @@
-# Inatsisartutlov om ressourceafgift på grønlandsk fiskeri
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om ressourceafgift på fiskeri
 
-Inatsisartutlov nr. 46 af 23. november 2017
+Selvstyrets lovbekendtgørelse nr. 81 af 25. november 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-46-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-81-af-25_11_2025?sc_lang=da>

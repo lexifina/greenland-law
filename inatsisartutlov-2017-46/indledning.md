@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 46 af 23. november 2017 om ressourceafgift på grønlandsk fiskeri, med de ændringer, der følger af Inatsisartutlov nr. 13 af 27. november 2018, Inatsisartutlov nr. 8 af 19. november 2021, Inatsisartutlov nr. 24 af 1. december 2021 og Inatsisartutlov nr. 27 af 25. november 2022.

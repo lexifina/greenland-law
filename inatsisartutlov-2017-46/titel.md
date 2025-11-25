@@ -1,1 +1,1 @@
-Inatsisartutlov om ressourceafgift på grønlandsk fiskeri
+Inatsisartutlov om ressourceafgift på fiskeri
