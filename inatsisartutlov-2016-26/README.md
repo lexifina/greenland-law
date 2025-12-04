@@ -1,7 +1,7 @@
-# Inatsisartutlov om kommunernes og Grønlands Selvstyres budgetter og regnskaber
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om kommunernes og Grønlands Selvstyres budgetter og regnskaber
 
-Inatsisartutlov nr. 26 af 28. november 2016
+Selvstyrets lovbekendtgørelse nr. 83 af 4. december 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2016/L-26-2016?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-83-af-04_12_2025?sc_lang=da>

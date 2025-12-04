@@ -1,0 +1,1 @@
+Herved bekendtgøres landstingslov nr. 26 af 28. november 2016 om kommunernes og Grønlands Selvstyres budgetter og regnskaber, med de ændringer, der følger af Inatsisartutlov nr. 24 af 28. november 2018, Inatsisartutlov nr. 13 af 1. december 2021 og Inatsisartutlov nr. 63 af 20. november 2023.
