@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 22 af 1. december 2021 om rammebetingelser for anlæg, finansiering og drift af vandkraftværker med tilhørende faciliteter til forsyning af Nuuk samt Qasigiannguit og Aasiaat, med de ændringer, der følger af Inatsisartutlov nr. 17 af 21. november 2022.

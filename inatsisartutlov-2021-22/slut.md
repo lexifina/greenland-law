@@ -1,5 +1,9 @@
-Grønlands Selvstyre, den 1. december 2021
+Departement for Erhverv, Råstoffer, Energi, Justitsområdet og Ligestilling, den 24. november 2025
 
-Múte Bourup Egede
+Jørgen Hammeken Holm (sign.)
 
-Formanden for Naalakkersuisut
+Departementschef
+
+/Ane Wraae Nielsen (sign.)
+
+[1] Lovændringen vedrører §§ 5 og 6

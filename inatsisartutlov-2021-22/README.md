@@ -1,7 +1,7 @@
-# Inatsisartutlov om rammebetingelser for anlæg, finansiering og drift af vandkraftværker med tilhørende faciliteter til forsyning af Nuuk samt Qasigiannguit og Aasiaat
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om rammebetingelser for anlæg, finansiering og drift af vandkraftværker med tilhørende faciliteter til forsyning af Nuuk samt Qasigiannguit og Aasiaat
 
-Inatsisartutlov nr. 22 af 1. december 2021
+Selvstyrets lovbekendtgørelse nr. 84 af 5. december 2025
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2021/L-22-2021?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2025/Selvstyrets-lovbekendtgoerelse-nr-84-af-05_12_2025?sc_lang=da>
