@@ -1,1 +1,3 @@
-§ 1 a. Alle skibe skal svare havneafgift, jf. dog § 2.
+## Havneafgift
+
+§ 1 a. (Ophævet)

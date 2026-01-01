@@ -1,1 +1,1 @@
-§ 1 c. Ved ilandsættelse af krydstogtpassagerer ved eller uden for havne, herunder ved kyst- og naturlandinger, bemyndiges kommunen til at fastsætte et miljø- og vedligeholdelsesgebyr på maksimalt 50 kr. per krydstogtpassager. Afgiften beregnes på grundlag af krydstogtskibets passagertal på tidspunktet for ilandsættelsen, uanset det faktiske antal krydstogtpassagerer, der ilandsættes. Kommunen udpeger de relevante lokationer og fastsætter de tilhørende gebyrstørrelser, som indmeldes senest den 1. oktober i det foregående år til skatteforvaltningen.
+§ 1 c. (Ophævet)
