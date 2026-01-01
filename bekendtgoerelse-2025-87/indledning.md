@@ -1,0 +1,1 @@
+I medfør af § 17 b, stk. 1 og stk. 3, § 17 d, stk. 2, § 17 e, § 17 f og § 29, stk. 2 i Inatsisartutlov nr. 13 af 26. maj 2010 om byggeri, som ændret ved Inatsisartutlov nr. 29 af 13. juni 2023 og efter forhandling med rigsmyndighederne, fastsættes:
