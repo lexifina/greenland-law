@@ -1,7 +1,7 @@
-# Landstingslov om efterskoler
+# Selvstyrets lovbekendtgørelse af landstingslov om efterskoler og tilskud til visse skole- og udvekslingsophold
 
-Landstingslov nr. 13 af 5. december 2008
+Selvstyrets lovbekendtgørelse nr. 3 af 19. januar 2026
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2008/ltl-13-2008?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2026/Selvstyrets-lovbekendtgoerelse-nr-3-af-19_01_2026?sc_lang=da>
