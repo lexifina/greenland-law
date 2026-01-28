@@ -2,7 +2,7 @@ Landstingslov nr. 4 af 13. maj 1993[i] indeholder følgende ikrafttrædelsesbest
 
 § 2
 
-Landstingsloven træder i kraft den 1. april 1993.
+Landstingsloven træder i kraft den 1. april 1993
 
 Landstingslov nr. 14 af 28. oktober 1993[ii] indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -32,13 +32,13 @@ Landstingsloven træder i kraft den 1. juli 1998.
 
 Landstingslov nr. 2 af 21. maj 2002 (Indførelse af passagerafgift for krydstogtskibe)[vi] indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 2.
 
 Landstingsloven træder i kraft den 1. januar 2003.
 
 Landstingslov nr. 3 af 27. marts 2006 (Forhøjelse af passagerafgift for krydstogtskibe samt pakkerejseafgift)[vii] indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 2.
 
 Landstingsloven træder i kraft den 1. april 2006.
 
@@ -54,16 +54,22 @@ Landstingslov nr. 8 af 5. december 2008 (Forhøjet afgift)[ix] indeholder følge
 
 Landstingsloven træder i kraft den 1. januar 2009.
 
-Landstingslov nr. 14 af 3. juni 2015 (Ophævelse af krydstogtpassagerafgiften og afgiften for kombinationssejlads)[x] indeholder følgende ikrafttrædelsesbestemmelse:
+Inatsisartutlov nr. 14 af 3. juni 2015 (Ophævelse af krydstogtpassagerafgiften og afgiften for kombinationssejlads)[x] indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Inatsisartutloven træder i kraft den 1. juni 2015.
 
-Landstingslov nr. 61 af 20. november 2023 (Genindførelse af en krydstogtpassagerafgift)[xi] indeholder følgende ikrafttrædelsesbestemmelse:
+Inatsisartutlov nr. 61 af 20. november 2023 (Genindførelse af en krydstogtpassagerafgift)[xi] indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Inatsisartutloven træder i kraft den 1. december 2023.
 
 Stk. 2. § 1, nr. 1-12, har virkning fra 1. januar 2024.
+
+Inatsisartutlov nr. 79 af 21. november 2025 (Ændring af afgiftssatser for Kangerlussuaq havn og visse skibstyper samt tilretning vedrørende elektronisk indberetning)[xii] indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Inatsisartutloven træder i kraft den 1. januar 2026.

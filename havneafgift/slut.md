@@ -1,7 +1,7 @@
-Departementet for Finanser og Skatter den 22. april 2024
+Departementet for Finanser og Skatter den 7. januar 2026
 
 Nikolai S. Christensen (sign.)
 
 Departementschef
 
-/ Morten W. Selvejer (sign.)
+/Morten W. Selvejer (sign.)
