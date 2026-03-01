@@ -1,0 +1,1 @@
+I medfør af § 1, stk. 7, i Inatsisartutlov nr. 16 af 21. november 2022 om arbejdsgiverens pligt til at underrette lønmodtageren om vilkårene for ansættelsesforholdet (Ansættelsesbevisloven) fastsættes:
