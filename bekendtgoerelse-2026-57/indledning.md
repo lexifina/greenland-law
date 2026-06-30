@@ -1,0 +1,1 @@
+I medfør af § 16, stk. 4, i Inatsisartutlov om Inatsisartut og Naalakkersuisut og § 5, § 13, stk. 1 og 3, § 18, stk. 10, § 19, § 33, stk. 1, § 36, stk. 1, i Inatsisartutlov om kommunernes og Grønlands Selvstyres budgetter og regnskaber, fastsættes:
