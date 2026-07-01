@@ -1,0 +1,1 @@
+I medfør af § 16, stk. 3, 2. pkt., og 4, § 17, § 18, § 19 og § 20 i Inatsisartutlov om fangst og jagt, jf. Selvstyrets lovbekendtgørelse nr. 30 af 26. marts 2025 samt § 6, stk. 2 og stk. 3, §§ 51, 55, 68, stk. 1, nr. 2-4, stk. 2 og § 71, stk. 4 i Inatsisartutlov nr. 29 af 23. maj 2024 om fiskeri, fastsættes:
