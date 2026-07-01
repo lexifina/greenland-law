@@ -1,1 +1,0 @@
-I medfør af §§ 7 og 8, § 10, §§ 12 og 13, § 15, stk. 4, § 17 og § 18 i landstingslov nr. 12 af 29. oktober 1999 om fangst og jagt som senest ændret ved landstingslov nr. 11 af 12. november 2001 samt § 8, §§ 25-26, § 33 samt § 34 i landstingslov nr. 18 af 31. oktober 1996 om fiskeri som senest ændret ved landstingslov nr. 15 af 12. november 2001 fastsættes:
