@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 27 af 18. november 2010 om sundhedsvæsenets styrelse, organisation samt sundhedsfaglige personer og psykologer, med de ændringer, der følger af Inatsisartutlov nr. 2 af 29. maj 2012 og Inatsisartutlov nr. 50 af 25. november 2024 om patienters klage- og erstatningsadgang inden for sundhedsvæsenet
