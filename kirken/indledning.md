@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 9 af 19. maj 2010 om kirken med de ændringer, der følger af Inatsisartutlov nr. 2 af 29. november 2013, Inatsisartutlov nr. 27, 3. december 2018 og Inatsisartutlov nr. 29 af 25. juni 2026.

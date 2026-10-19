@@ -1,7 +1,7 @@
-Grønlands Selvstyre, den 19. maj 2010
+Departementet for Uddannelse, Kultur, Idræt og Kirke, den 19. oktober 2026
 
-Kuupik Kleist
+Karl Davidsen (sign.)
 
-/
+Departementschef
 
-Mimi Karlsen
+/ Claus Kleemann (sign.)
