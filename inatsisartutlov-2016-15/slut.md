@@ -1,3 +1,7 @@
-Grønlands Selvstyre, den 6. juni 2016
+Departementet for Uddannelse, Kultur, Idræt og Kirke, den 19. oktober 2026
 
-Kim Kielsen
+Karl Davidsen (sign.)
+
+Departementschef
+
+/ Claus Kleemann (sign.)
