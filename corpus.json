@@ -36,6 +36,7 @@
   "label": "Greenland",
   "language": "da",
   "checked_on": "2026-10-28",
-  "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28."
+  "history": "replayed",
+  "record_note": "Checked against the official source on 2026-10-28.",
+  "verification": "Verified against official text: each act as passed and each lovbekendtgørelse consolidation (5 versions). Commits dated between them are reconstructed from the amending acts and are not independently verified."
 }
