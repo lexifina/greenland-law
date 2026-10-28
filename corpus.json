@@ -28,5 +28,9 @@
   },
   "tool": "tools/paa_dato.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-10-19"
+  "record_to": "2026-10-19",
+  "citation": {
+    "file": "([a-z]+)/par-0*([0-9]+[a-z]*)\\.md",
+    "cites": "§ ?{n}([^0-9]|$)"
+  }
 }
