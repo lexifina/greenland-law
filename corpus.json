@@ -1,0 +1,32 @@
+{
+  "corpus": "gl/national/acts",
+  "name": "Greenlandic law: Inatsisartutlov om Kirken (nr. 9 af 19. maj 2010) and Landstingslov om havne- og krydstogtpassagerafgift (nr. 20 af 30. oktober 1992), with their consolidations and amending acts",
+  "acts": [
+    "Inatsisartutlov nr. 9 af 19. maj 2010",
+    "Landstingslov nr. 20 af 30. oktober 1992"
+  ],
+  "history_from": "1993-01-01",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted",
+      "Site-date",
+      "Signed"
+    ],
+    "time": "12:00 America/Nuuk (UTC-3, UTC-2 in summer time, until 25 March 2023; UTC-2 until 30 March 2024; since then UTC-2, UTC-1 in summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "a commit without Applies: records no scope note; the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactive criminal liability; no general bar elsewhere",
+      "meaning": "an act applies from the day it takes effect; an act may give itself effect from an earlier day (an amending act says so: \"har virkning fra ...\"), except that no one is punished for an act that was not punishable by law when it was done",
+      "authority": "Kriminallov for Grønland (lov nr. 306 af 30. april 2008) § 1 (the legality principle) and Article 7 of the European Convention on Human Rights; Danmarks Riges Grundlov, which applies in Greenland, contains no general rule on retroactive legislation. Not quoted here: the wording was not read from an official source in this build",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/paa_dato.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2026-10-19"
+}
