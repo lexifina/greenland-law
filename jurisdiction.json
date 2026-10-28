@@ -1,0 +1,11 @@
+{
+  "path": "gl",
+  "code": "GL",
+  "name": "Greenland",
+  "level": "country",
+  "note": "part of the Kingdom of Denmark",
+  "repo": "https://github.com/lexifina/greenland-law",
+  "build": "gazette",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
