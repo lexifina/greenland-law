@@ -1,7 +1,7 @@
-# Inatsisartutlov om beskatning af visse kapitalafkast
+# Selvstyrets lovbekendtgørelse af Inatsisartutlov om beskatning af visse kapitalafkast
 
-Inatsisartutlov nr. 37 af 23. november 2017
+Selvstyrets lovbekendtgørelse nr. 37 af 6. november 2026
 
 Status på Nalunaarutit: Gældende
 
-Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2017/L-37-2017?sc_lang=da>
+Kilde: <https://nalunaarutit.gl/Groenlandsk-lovgivning/2026/Selvstyrets-lovbekendtgoelse-nr-37-af-06_11_2026?sc_lang=da>

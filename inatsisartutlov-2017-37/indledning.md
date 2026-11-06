@@ -1,0 +1,1 @@
+Herved bekendtgøres Inatsisartutlov nr. 37 af 23. november 2017 om beskatning af visse kapitalafkast med de ændringer, der følger af Inatsisartutlov nr. 25 af 28. november 2018 og Inatsisartutlov nr. 13 af 19. november 2020.
