@@ -1,5 +1,7 @@
 # Greenlandic law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greenland's national law, which global-law reads at `greenland/national/acts/`.
+
 Two acts of Greenland as a git repository: the Church Act (Inatsisartutlov nr. 9 af 19. maj 2010 om Kirken) and the Port
 Dues Act (Landstingslov nr. 20 af 30. oktober 1992 om havneafgift, now om havne- og krydstogtpassagerafgift), each with its
 consolidations and the amending acts between them. Each amending act is one commit, credited to that act and dated the day
