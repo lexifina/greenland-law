@@ -60,6 +60,7 @@ Each change is credited to the amending act that a consolidation's endnote, or t
 - `tools/test_repo.py` checks that blame names an act, that the dated tool gives the text before and after an amendment, that every tag resolves and that every law commit carries `In-force:`.
 - A second build from the same retrieved pages gave the same hash for each of the 28 law commits and 38 tags. The commands and results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: later builds are appended, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change is credited to the amending act that a consolidation's endnote, or t
 See [`LICENSE`](LICENSE). No terms of use or reuse licence were found on Nalunaarutit, and whether Greenlandic acts are free of copyright as Danish acts are (ophavsretsloven § 9) has not been decided here, so no reuse licence is claimed for the text of the acts. Source: Nalunaarutit, Grønlands Selvstyre, https://nalunaarutit.gl; Grønlands Selvstyre does not endorse this repository. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

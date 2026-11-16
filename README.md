@@ -60,6 +60,7 @@ Hver ændring tilskrives den ændringslov, som en lovbekendtgørelses slutnote e
 - `tools/test_repo.py` kontrollerer, at blame nævner en lov, at det daterede værktøj giver teksten før og efter en ændring, at hvert tag kan opløses, og at hvert lovcommit har `In-force:`.
 - En anden opbygning fra de samme hentede sider gav samme hash for hvert af de 28 lovcommits og 38 tags. Kommandoerne og resultaterne står i [`REPRODUCE.md`](REPRODUCE.md).
 - Historikken udvides kun: senere opbygninger lægges oven på, og intet offentliggjort commit omskrives.
+- [vulnerabilities/](vulnerabilities/): mulige redaktionelle fejl i denne ret, fundet af global-laws detektorer og kontrolleret i hånden. Ikke kørt endnu.
 
 ## Hvad det ikke viser
 
@@ -81,6 +82,10 @@ Se [`LICENSE`](LICENSE). Der er ikke fundet brugsvilkår eller en licens til gen
 Ingen AI-model har skrevet eller ændret lovtekst; scriptene er skrevet af en AI-model (se [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dette er en oversættelse af den engelske version ([README.en.md](README.en.md)); hvis de afviger, gælder den engelske version.
+
+## Visualiseringer
+
+- [visualisations/](visualisations/): diagrammer tegnet ud fra dette repository. Ikke tegnet endnu.
 
 ## Mere
 
