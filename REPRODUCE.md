@@ -216,3 +216,28 @@ by line by a lawyer.
 
 No public git history of Greenlandic law was found. Lexifina's other corpora, whose rules this one follows, are the model
 (Denmark above all, whose acts and consolidations work the same way).
+
+## Breadth build (2026-11-26)
+
+Every legislative page in Nalunaarutit's sitemap (`/api/sitemap/sitemapxml`, Danish pages `?sc_lang=da`), fetched
+2026-11-26 at two requests in flight (the host drops connections under more; robots.txt disallows only `/sitecore/`, no
+stated limit), built with [`tools/breadth/gl_breadth.py`](tools/breadth/gl_breadth.py) into `git fast-import` streams
+appended to `main`.
+
+Layout:
+
+- One folder per act, named in Danish by kind, year and number: `landstingslov-1979-5/`, `inatsisartutlov-2019-42/`,
+  `landstingsforordning-2001-5/`, `bekendtgoerelse-2003-7/`; Danish realm law under `rigslovgivning/`
+  (`rigslovgivning/lov-2008-306/`), treaties under `international/`.
+- One file per section (`par-001.md`, `par-026a.md`) plus `titel.md`, `indledning.md`, `ikraft.md`, `slut.md`, `noter.md`,
+  when that split reproduces the page word for word; otherwise one file `hele-teksten.md`.
+- One commit per official text: the act as passed (author: the act, e.g. `Landstingslov nr. 5 af 19. maj 1979`) and each
+  consolidation (author: Nalunaarutit, `Incorporates:` trailers naming the amending acts it lists).
+- One commit per amending act, authored by it, on its in-force day: its text in `<act>/aendringslove/<year>-<nr>.md`;
+  the act's own files change only at the next consolidation (`Text-applied: no`).
+- One commit per repeal ("Samtidig ophæves landstingslov nr. ..."), authored by the repealing act on its in-force day,
+  removing the folder.
+- Dates: noon in Nuuk on the `In-force:` day; `In-force-basis:` quotes the commencement provision ("Loven træder i kraft
+  den 1. januar 1995"), or says the designation day was used when the text has none. Before 1970 git dates are
+  placeholders; the day is in `In-force:`.
+- Left out: pages with no HTML text (no OCR), cirkulærer, vejledninger and similar guidance: [`held.csv`](held.csv).

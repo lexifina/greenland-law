@@ -11,9 +11,9 @@ The law of Greenland as a git history: one file per section (§), one commit per
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greenland's national law, which global-law reads at `greenland/national/acts/`.
 
-**What is in it now:** two acts of Greenland's parliament, the Church Act (Inatsisartutlov nr. 9 af 19. maj 2010 om Kirken) and the Port Dues Act (Landstingslov nr. 20 af 30. oktober 1992 om havneafgift, now om havne- og krydstogtpassagerafgift); their 5 official texts (each act as passed and 3 consolidations, Selvstyrets lovbekendtgørelser); and the changes of the 15 amending acts those consolidations incorporate, in 28 commits. [`love.csv`](love.csv) lists every act, consolidation and amending act with its dates.
+**What is in it now:** 2023 texts from Nalunaarutit, Greenland's official law collection: 934 Greenlandic acts, forordninger and bekendtgørelser (from 1979), 874 Danish acts, anordninger and bekendtgørelser for Greenland (Rigslovgivning) and 215 treaties; 135 consolidations, 569 amending acts on their in-force day and 294 repeals. The Church Act (`kirken/`) and the Port Dues Act (`havneafgift/`) are replayed change by change. [`acts.csv`](acts.csv) lists every folder; [`held.csv`](held.csv) what was left out and why.
 
-Each act is a folder, `havneafgift/` and `kirken/`, and each section is one file: `havneafgift/par-012.md` is § 12 of the Port Dues Act, `kirken/par-026a.md` § 26 a of the Church Act. Each folder's `README.md` lists its sections and how often each changed.
+Each act is a folder (`landstingslov-1979-5/`, `rigslovgivning/lov-2025-1766/`, `havneafgift/`, `kirken/`), and each section is one file: `havneafgift/par-012.md` is § 12 of the Port Dues Act, `kirken/par-026a.md` § 26 a of the Church Act. Each folder's `README.md` lists its sections and how often each changed.
 
 The text is in Danish, as Grønlands Selvstyre publishes it in Nalunaarutit. The Greenlandic text it also publishes, and an English translation, are not part of this record.
 
@@ -64,7 +64,7 @@ Each change is credited to the amending act that a consolidation's endnote, or t
 
 ## What it does not show
 
-- **Other acts.** These are two of the acts on Nalunaarutit, which holds 124 consolidations in Danish; the same build works for any act with consolidations there (`ACTS` in `tools/build.py`).
+- **Text between official versions** outside `kirken/` and `havneafgift/`: an amending act is recorded in the act's `aendringslove/` folder on its in-force day, but the act's section files change only with the next official consolidation (`Text-applied: no` in the commit).
 - **The Self-Government Act** (lov nr. 473 af 12. juni 2009), Greenland's constitutional basis: it is a Danish act, published on Retsinformation, and is in [denmark-law](https://github.com/lexifina/denmark-law/tree/main/lov/2009/473).
 - **The days between official texts as official texts.** Nalunaarutit publishes a text only as passed and on each consolidation's day; between them, each act's changes are placed on its own in-force day with the wording the next consolidation shows. Only the commits tagged `il/2010-9`, `ltl/1992-20` and `lbk/<year>-<number>` are official texts.
 - **The Church Act as in force from 19 October 2026 to 31 December 2026.** That day's consolidation prints Inatsisartutlov nr. 29 af 25. juni 2026, which takes effect on 1 January 2027; its changes to § 3 a and § 24 stand here from 19 October 2026, labelled `Printed-early:`.

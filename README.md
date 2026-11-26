@@ -11,7 +11,7 @@ Grønlands ret som git-historik: én fil pr. paragraf (§), ét commit pr. ændr
 
 En del af [lexifina/global-law](https://github.com/lexifina/global-law), én git-historik for alle landes ret: dette er Grønlands nationale ret, som global-law læser under `greenland/national/acts/`.
 
-**Hvad der er her nu:** to love fra Grønlands parlament, kirkeloven (Inatsisartutlov nr. 9 af 19. maj 2010 om Kirken) og havneafgiftsloven (Landstingslov nr. 20 af 30. oktober 1992 om havneafgift, nu om havne- og krydstogtpassagerafgift); deres 5 officielle tekster (hver lov som vedtaget og 3 lovbekendtgørelser, Selvstyrets lovbekendtgørelser); og ændringerne fra de 15 ændringslove, som lovbekendtgørelserne indarbejder, i 28 commits. [`love.csv`](love.csv) viser hver lov, lovbekendtgørelse og ændringslov med dens datoer.
+**Hvad der er her nu:** 2023 tekster fra Nalunaarutit, Grønlands officielle lovsamling: 934 grønlandske love, forordninger og bekendtgørelser (fra 1979), 874 danske love, anordninger og bekendtgørelser for Grønland (Rigslovgivning) og 215 traktater; 135 lovbekendtgørelser, 569 ændringslove på deres ikrafttrædelsesdag og 294 ophævelser. Kirkeloven (`kirken/`) og havneafgiftsloven (`havneafgift/`) er genskabt ændring for ændring. [`acts.csv`](acts.csv) viser hver mappe; [`held.csv`](held.csv) hvad der er udeladt og hvorfor.
 
 Hver lov er en mappe, `havneafgift/` og `kirken/`, og hver paragraf er én fil: `havneafgift/par-012.md` er § 12 i havneafgiftsloven, `kirken/par-026a.md` § 26 a i kirkeloven. Hver mappes `README.md` viser dens paragraffer og hvor ofte hver af dem er ændret.
 
@@ -64,7 +64,7 @@ Hver ændring tilskrives den ændringslov, som en lovbekendtgørelses slutnote e
 
 ## Hvad det ikke viser
 
-- **Andre love.** Dette er to af lovene i Nalunaarutit, der rummer 124 lovbekendtgørelser på dansk; den samme opbygning virker for enhver lov med lovbekendtgørelser dér (`ACTS` i `tools/build.py`).
+- **Teksten mellem officielle versioner** uden for `kirken/` og `havneafgift/`: en ændringslov registreres i lovens mappe `aendringslove/` på sin ikrafttrædelsesdag, men lovens paragraffiler ændres først med den næste officielle lovbekendtgørelse (`Text-applied: no` i commit-beskeden).
 - **Selvstyreloven** (lov nr. 473 af 12. juni 2009), Grønlands forfatningsmæssige grundlag: den er en dansk lov, offentliggjort i Retsinformation, og findes i [denmark-law](https://github.com/lexifina/denmark-law/tree/main/lov/2009/473).
 - **Dagene mellem de officielle tekster som officielle tekster.** Nalunaarutit udgiver kun en tekst som vedtaget og på hver lovbekendtgørelses dag; ind imellem er hver lovs ændringer placeret på dens egen ikrafttrædelsesdag med den ordlyd, som den næste lovbekendtgørelse viser. Kun de commits, der er tagget `il/2010-9`, `ltl/1992-20` og `lbk/<year>-<number>`, er officielle tekster.
 - **Kirkeloven, som den gælder fra 19. oktober 2026 til 31. december 2026.** Den dags lovbekendtgørelse optrykker Inatsisartutlov nr. 29 af 25. juni 2026, der træder i kraft den 1. januar 2027; dens ændringer af § 3 a og § 24 står her fra 19. oktober 2026, mærket `Printed-early:`.
