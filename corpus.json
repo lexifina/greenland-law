@@ -2050,13 +2050,14 @@
   "in_force_trailer": "In-force",
   "record_to": "2026-11-25",
   "citation": {
-    "file": "(?:rigslovgivning/|international/)?([a-z0-9-]+)/par-0*([0-9]+[a-z]*)\\.md",
+    "file": "(?:[a-z0-9-]+/)*([a-z0-9-]+)/par-0*([0-9]+[a-z]*)\\.md",
     "cites": "§ ?{n}([^0-9]|$)"
   },
   "label": "Greenland",
   "language": "da",
   "checked_on": "2026-11-26",
   "history": "replayed",
-  "record_note": "kirken/ and havneafgift/ are replayed change by change; every other folder holds the official texts Nalunaarutit publishes (the act as passed and each consolidation), with amending acts recorded on their in-force day in aendringslove/ and repeals on the repealing act's in-force day.",
-  "verification": "Each version file set equals the Nalunaarutit page word for word (one file per section where the split reproduces the page, else one file hele-teksten.md)."
+  "record_note": "inatsisartutlove/2010/kirken/ and landstingslove/1992/havneafgift/ are replayed change by change; every other folder holds the official texts Nalunaarutit publishes (the act as passed and each consolidation), with amending acts recorded on their in-force day in aendringslove/ and repeals on the repealing act's in-force day.",
+  "verification": "Each version file set equals the Nalunaarutit page word for word (one file per section where the split reproduces the page, else one file hele-teksten.md).",
+  "layout": "grundlag/; inatsisartutlove/<year>/; landstingslove/<year>/; landstingsforordninger/<year>/; inatsisartutforordninger/<year>/; bekendtgoerelser/<year>/; vedtaegter/, regulativer/, paabud/ <year>/; rigslovgivning/<type>/<year>/; international/<year>/; repealed texts in <type>/ophaevede/<year>/; old to new paths in data/paths.json"
 }

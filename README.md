@@ -11,9 +11,9 @@ Grønlands ret som git-historik: én fil pr. paragraf (§), ét commit pr. ændr
 
 En del af [lexifina/global-law](https://github.com/lexifina/global-law), én git-historik for alle landes ret: dette er Grønlands nationale ret, som global-law læser under `greenland/national/acts/`.
 
-**Hvad der er her nu:** 2023 tekster fra Nalunaarutit, Grønlands officielle lovsamling: 934 grønlandske love, forordninger og bekendtgørelser (fra 1979), 874 danske love, anordninger og bekendtgørelser for Grønland (Rigslovgivning) og 215 traktater; 135 lovbekendtgørelser, 569 ændringslove på deres ikrafttrædelsesdag og 294 ophævelser. Kirkeloven (`kirken/`) og havneafgiftsloven (`havneafgift/`) er genskabt ændring for ændring. [`acts.csv`](acts.csv) viser hver mappe; [`held.csv`](held.csv) hvad der er udeladt og hvorfor.
+**Hvad der er her nu:** 2023 tekster fra Nalunaarutit, Grønlands officielle lovsamling: 934 grønlandske love, forordninger og bekendtgørelser (fra 1979), 874 danske love, anordninger og bekendtgørelser for Grønland (Rigslovgivning) og 215 traktater; 135 lovbekendtgørelser, 569 ændringslove på deres ikrafttrædelsesdag og 294 ophævelser. Kirkeloven (`inatsisartutlove/2010/kirken/`) og havneafgiftsloven (`landstingslove/1992/havneafgift/`) er genskabt ændring for ændring. [`acts.csv`](data/acts.csv) viser hver mappe; [`held.csv`](data/held.csv) hvad der er udeladt og hvorfor.
 
-Hver lov er en mappe (`landstingslov-1979-5/`, `rigslovgivning/lov-2025-1766/`, `havneafgift/`, `kirken/`), og hver paragraf er én fil: `havneafgift/par-012.md` er § 12 i havneafgiftsloven, `kirken/par-026a.md` § 26 a i kirkeloven. Hver mappes `README.md` viser dens paragraffer og hvor ofte hver af dem er ændret.
+Hver lov er en mappe, ordnet efter type og år (`landstingslove/1992/havneafgift/`, `bekendtgoerelser/2019/bekendtgoerelse-2019-30/`, `rigslovgivning/love/2025/lov-2025-1766/`, selvstyreloven i `grundlag/`, ophævede tekster i hver types `ophaevede/`), og hver paragraf er én fil: `landstingslove/1992/havneafgift/par-012.md` er § 12 i havneafgiftsloven, `inatsisartutlove/2010/kirken/par-026a.md` § 26 a i kirkeloven. Hver mappes `README.md` viser dens paragraffer og hvor ofte hver af dem er ændret.
 
 Teksten er på dansk, som Grønlands Selvstyre udgiver den i Nalunaarutit. Den grønlandske tekst, som Selvstyret også udgiver, og en engelsk oversættelse indgår ikke i dette materiale.
 
@@ -21,9 +21,9 @@ Teksten er på dansk, som Grønlands Selvstyre udgiver den i Nalunaarutit. Den g
 
 | Spørgsmål | Kommando |
 | --- | --- |
-| Alle ændringer af § 12 i havneafgiftsloven | `git log -p --word-diff -- havneafgift/par-012.md` |
-| Hvilken lov skrev hver linje i § 12? | `git blame havneafgift/par-012.md` |
-| Alle versioner af § 12 med den dag, hver af dem trådte i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- havneafgift/par-012.md` |
+| Alle ændringer af § 12 i havneafgiftsloven | `git log -p --word-diff -- landstingslove/1992/havneafgift/par-012.md` |
+| Hvilken lov skrev hver linje i § 12? | `git blame landstingslove/1992/havneafgift/par-012.md` |
+| Alle versioner af § 12 med den dag, hver af dem trådte i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- landstingslove/1992/havneafgift/par-012.md` |
 | § 12, som den gjaldt den 1. januar 2000 | `python tools/paa_dato.py 2000-01-01 havneafgift 12` |
 
 **Uden for git** stiller vi også dette materiale offentligt og gratis til rådighed:
@@ -40,7 +40,7 @@ Begge assistenter læser materialet gennem den gratis Global law-connector (MCP,
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add greenland/national/acts
-python3 tools/law.py show 2026-01-01 greenland/national/acts/havneafgift/par-012.md
+python3 tools/law.py show 2026-01-01 greenland/national/acts/landstingslove/1992/havneafgift/par-012.md
 ```
 
 Åbnet i Claude Code, Cursor, VS Code eller Codex starter klonen også en lokal MCP-server med de samme værktøjer ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -60,11 +60,11 @@ Hver ændring tilskrives den ændringslov, som en lovbekendtgørelses slutnote e
 - `tools/test_repo.py` kontrollerer, at blame nævner en lov, at det daterede værktøj giver teksten før og efter en ændring, at hvert tag kan opløses, og at hvert lovcommit har `In-force:`.
 - En anden opbygning fra de samme hentede sider gav samme hash for hvert af de 28 lovcommits og 38 tags. Kommandoerne og resultaterne står i [`REPRODUCE.md`](REPRODUCE.md).
 - Historikken udvides kun: senere opbygninger lægges oven på, og intet offentliggjort commit omskrives.
-- [vulnerabilities/](vulnerabilities/): mulige redaktionelle fejl i denne ret, fundet af global-laws detektorer og kontrolleret i hånden. Ikke kørt endnu.
+- [data/vulnerabilities/](data/vulnerabilities/): mulige redaktionelle fejl i denne ret, fundet af global-laws detektorer og kontrolleret i hånden. Ikke kørt endnu.
 
 ## Hvad det ikke viser
 
-- **Teksten mellem officielle versioner** uden for `kirken/` og `havneafgift/`: en ændringslov registreres i lovens mappe `aendringslove/` på sin ikrafttrædelsesdag, men lovens paragraffiler ændres først med den næste officielle lovbekendtgørelse (`Text-applied: no` i commit-beskeden).
+- **Teksten mellem officielle versioner** uden for `inatsisartutlove/2010/kirken/` og `landstingslove/1992/havneafgift/`: en ændringslov registreres i lovens mappe `aendringslove/` på sin ikrafttrædelsesdag, men lovens paragraffiler ændres først med den næste officielle lovbekendtgørelse (`Text-applied: no` i commit-beskeden).
 - **Selvstyreloven** (lov nr. 473 af 12. juni 2009), Grønlands forfatningsmæssige grundlag: den er en dansk lov, offentliggjort i Retsinformation, og findes i [denmark-law](https://github.com/lexifina/denmark-law/tree/main/lov/2009/473).
 - **Dagene mellem de officielle tekster som officielle tekster.** Nalunaarutit udgiver kun en tekst som vedtaget og på hver lovbekendtgørelses dag; ind imellem er hver lovs ændringer placeret på dens egen ikrafttrædelsesdag med den ordlyd, som den næste lovbekendtgørelse viser. Kun de commits, der er tagget `il/2010-9`, `ltl/1992-20` og `lbk/<year>-<number>`, er officielle tekster.
 - **Kirkeloven, som den gælder fra 19. oktober 2026 til 31. december 2026.** Den dags lovbekendtgørelse optrykker Inatsisartutlov nr. 29 af 25. juni 2026, der træder i kraft den 1. januar 2027; dens ændringer af § 3 a og § 24 står her fra 19. oktober 2026, mærket `Printed-early:`.
@@ -85,7 +85,7 @@ Dette er en oversættelse af den engelske version ([README.en.md](README.en.md))
 
 ## Visualiseringer
 
-- [visualisations/](visualisations/): diagrammer tegnet ud fra dette repository. Ikke tegnet endnu.
+- [data/visualisations/](data/visualisations/): diagrammer tegnet ud fra dette repository. Ikke tegnet endnu.
 
 ## Mere
 

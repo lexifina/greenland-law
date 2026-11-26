@@ -240,4 +240,22 @@ Layout:
 - Dates: noon in Nuuk on the `In-force:` day; `In-force-basis:` quotes the commencement provision ("Loven træder i kraft
   den 1. januar 1995"), or says the designation day was used when the text has none. Before 1970 git dates are
   placeholders; the day is in `In-force:`.
-- Left out: pages with no HTML text (no OCR), cirkulærer, vejledninger and similar guidance: [`held.csv`](held.csv).
+- Left out: pages with no HTML text (no OCR), cirkulærer, vejledninger and similar guidance: [`data/held.csv`](data/held.csv).
+
+## Folder layout (2026-11-26)
+
+On 26 November 2026 one commit moved every act folder into type and year folders, with no change to any file's
+content; [`data/paths.json`](data/paths.json) lists each old and new path, and `git log --follow` and `git blame` follow
+the move. The paths above (`kirken/`, `havneafgift/`, `landstingslov-1979-5/`) are those before the move: `kirken/` is now
+`inatsisartutlove/2010/kirken/`, `havneafgift/` is `landstingslove/1992/havneafgift/`.
+
+- `grundlag/`: the Self-Government Act (lov nr. 473 af 12. juni 2009); the Home Rule Act of 1978 in `grundlag/ophaevede/`.
+- `inatsisartutlove/<år>/`, `landstingslove/<år>/`, `landstingsforordninger/<år>/`, `inatsisartutforordninger/<år>/`,
+  `bekendtgoerelser/<år>/`, `vedtaegter/<år>/`, `regulativer/<år>/`, `paabud/<år>/`: Greenlandic texts by kind and year.
+- `rigslovgivning/<type>/<år>/` (`love`, `anordninger`, `bekendtgoerelser`, `lovbekendtgoerelser`, `forretningsordener`):
+  Danish realm law for Greenland.
+- `international/<år>/`: treaties.
+- A text whose status on Nalunaarutit is Ophævet sits in its type's `ophaevede/<år>/`. Year folders hold under 1,000
+  entries each.
+- Tables (`acts.csv`, `held.csv`, `love.csv`, `paths.json`) and the placeholders `visualisations/` and `vulnerabilities/`
+  are in `data/`. `tools/paa_dato.py` takes an act's folder name or path and reads the old path before the move.

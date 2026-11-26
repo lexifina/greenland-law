@@ -32,6 +32,7 @@ MONTHS = P.MONTHS
 import os
 CUTOFF = int(os.environ.get('GL_CUTOFF', '0'))
 DONE = WORK / 'done.json'
+RENAMED: dict[str, str] = {}  # build folder name -> folder in the type/year layout
 MON = '|'.join(MONTHS)
 
 # ---------------------------------------------------------------- kinds
@@ -365,6 +366,42 @@ def make_plan() -> dict:
                         repeals.append((d, t['folder'], P.clean(sent)[:300]))
     for f in ('inatsisartutlov-2010-9', 'landstingslov-1992-20'):  # already published with full history (kirken/, havneafgift/)
         groups.pop(f, None)
+    # since 2026-11-26 the folders live in type and year folders (data/paths.json; new ones by the same rule)
+    moved_file = REPO / 'data' / 'paths.json'
+    if moved_file.exists():
+        moved = json.loads(moved_file.read_text(encoding='utf-8'))
+
+        def place(old: str, g: dict) -> str:
+            if old in moved:
+                return moved[old]
+            base = old.rsplit('/', 1)[-1]
+            word = re.match(r'([a-z]+)-', base).group(1)
+            year = re.search(r'(\d{4})', base).group(1)
+            d0 = g['base'] or g['versions'][-1]
+            st = (g['versions'][-1]['status'] if g['versions'] else d0['status'])
+            sub = f'ophaevede/{year}' if st == 'Ophævet' else year
+            rigs = {'lov': 'love', 'anordning': 'anordninger', 'bekendtgoerelse': 'bekendtgoerelser',
+                    'lovbekendtgoerelse': 'lovbekendtgoerelser', 'forretningsorden': 'forretningsordener'}
+            gl = {'inatsisartutlov': 'inatsisartutlove', 'landstingslov': 'landstingslove', 'lov': 'inatsisartutlove',
+                  'landstingsforordning': 'landstingsforordninger', 'inatsisartutforordning': 'inatsisartutforordninger',
+                  'bekendtgoerelse': 'bekendtgoerelser', 'vedtaegt': 'vedtaegter', 'regulativ': 'regulativer',
+                  'paabud': 'paabud', 'landsraadsvedtaegt': 'landsraadsvedtaegter',
+                  'forretningsorden': 'forretningsordener', 'lovbekendtgoerelse': 'lovbekendtgoerelser'}
+            if old.startswith('rigslovgivning/'):
+                return f'rigslovgivning/{rigs.get(word, word)}/{sub}/{base}'
+            if old.startswith('international/'):
+                return f'international/{sub}/{base}'
+            return f'{gl.get(word, word)}/{sub}/{base}'
+        ren = {f: place(f, g) for f, g in groups.items()}
+        for f, g in groups.items():
+            g['old_folder'] = f
+            g['folder'] = ren[f]
+        groups = {ren[f]: g for f, g in groups.items()}
+        repeals = [(d, ren.get(f, f), line) for d, f, line in repeals]
+        for d in docs:
+            if d.get('folder') in ren:
+                d['folder'] = ren[d['folder']]
+        RENAMED.update(ren)
     repeals = [r for r in repeals if r[1] in groups]
     return {'docs': docs, 'groups': groups, 'held': held, 'excluded': excluded, 'repeals': repeals,
             'unresolved_cons': unresolved_cons, 'unresolved_amends': unresolved_amends}
@@ -462,6 +499,7 @@ def folder_readme(g: dict, d: dict, status: str) -> str:
 def stream(plan: dict, part: str, branch: str, start: str, out: Path) -> dict:
     ev = build_events(plan, part)
     done = set(json.loads(DONE.read_text(encoding='utf-8'))) if DONE.exists() else set()
+    done = {('|'.join([k.split('|', 2)[0], RENAMED.get(k.split('|', 2)[1], k.split('|', 2)[1]), k.split('|', 2)[2]])) for k in done}
     last_done: dict[str, str] = {}
     for e in ev:
         if f"{e['kind']}|{e['folder']}|{e['doc']['url']}" in done and e['kind'] in ('act', 'consolidation'):
@@ -479,7 +517,7 @@ def stream(plan: dict, part: str, branch: str, start: str, out: Path) -> dict:
     folders = set(plan['groups'])
     for path in tree:
         parts = path.split('/')
-        for n in (1, 2):
+        for n in (1, 2, 3, 4, 5):
             if '/'.join(parts[:n]) in folders and len(parts) > n:
                 files['/'.join(parts[:n])].add(path)
                 break

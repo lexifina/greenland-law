@@ -21,7 +21,9 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-LAW = re.compile(r'^(Inatsisartutlov|Landstingslov|Selvstyrets lovbekendtgørelse) nr\. \d+ af \d{1,2}\. [a-zæø]+ \d{4}$')
+LAW = re.compile(r'^(Inatsisartutlov|Landstingslov|Selvstyrets lovbekendtgørelse|Inatsisartutforordning|Landstingsforordning|'
+                 r'Landsrådsvedtægt|Lovbekendtgørelse|Lov|Bekendtgørelse|Anordning|Traktat|Vedtægt|Regulativ|Påbud|Forretningsorden)'
+                 r'( nr\. \d+)? af \d{1,2}\. [a-zæø]+ \d{4}$')
 PUBLISHER = 'Nalunaarutit (Grønlands Selvstyre)'
 
 
@@ -60,7 +62,7 @@ class Smoke:
 
     # 1
     def blame(self):
-        out = self.git('blame', '--line-porcelain', 'main', '--', 'havneafgift/par-012.md')
+        out = self.git('blame', '--line-porcelain', 'main', '--', 'landstingslove/1992/havneafgift/par-012.md')
         authors = {l[7:] for l in out.splitlines() if l.startswith('author ')}
         assert authors, 'no blame output'
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors}'
@@ -89,9 +91,10 @@ class Smoke:
     # 3
     def follow(self):
         checked = []
-        for path in ('havneafgift/par-007.md', 'havneafgift/par-010.md', 'kirken/par-004.md'):
+        for path in ('landstingslove/1992/havneafgift/par-007.md', 'landstingslove/1992/havneafgift/par-010.md',
+                     'inatsisartutlove/2010/kirken/par-004.md'):
             out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
-            rows = [l.split('\t') for l in out.splitlines() if l]
+            rows = [r for r in (l.split('\t') for l in out.splitlines() if l) if r[1].strip()]  # moves and docs carry no In-force
             assert len(rows) >= 2, f'{path}: {len(rows)} commits'
             days = [d.strip() for _, d in rows]
             assert days == sorted(days, reverse=True), f'{path}: not in date order {days}'
@@ -107,26 +110,29 @@ class Smoke:
         for t in tags:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
         rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
-        missing = [r for r in rows[1:] if not r.split('\t')[2].strip()]
-        assert not missing, f'{len(missing)} commits without In-force, e.g. {missing[:2]}'
-        assert not rows[0].split('\t')[2].strip(), 'documentation commit should carry no In-force'
-        bad = [r for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
+        law = [r for r in rows if r.split('\t')[1] != 'Lexifina']
+        docs = [r for r in rows if r.split('\t')[1] == 'Lexifina']
+        missing = [r for r in law if not r.split('\t')[2].strip()]
+        assert not missing, f'{len(missing)} law commits without In-force, e.g. {missing[:2]}'
+        assert not rows[0].split('\t')[2].strip(), 'the newest (documentation) commit carries In-force'
+        bad = [r for r in law if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
         assert not bad, f'malformed In-force {bad[:2]}'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force'
+        return f'{len(tags)} tags resolve; {len(law)} law commits carry In-force; {len(docs)} documentation commits do not'
 
     # 5
     def lexifina(self):
         rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert by_lex and by_lex[0] == rows[0], 'the newest commit is not a documentation commit'
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        authors = {r.split('\t')[1] for r in rows[1:]}
-        assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors - {PUBLISHER}}'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(authors)} distinct authors'
+        authors = {r.split('\t')[1] for r in rows if r.split('\t')[1] != 'Lexifina'}
+        odd = {a for a in authors if not (LAW.match(a) or a == PUBLISHER)}
+        assert not odd, f'unexpected authors {sorted(odd)[:10]}'
+        return f'{len(by_lex)} documentation and layout commits by Lexifina; {len(authors)} distinct law authors'
 
     # 6
     def readme(self):
-        text = (self.repo / 'README.md').read_text(encoding='utf-8')
+        text = (self.repo / ('README.en.md' if (self.repo / 'README.en.md').exists() else 'README.md')).read_text(encoding='utf-8')
         assert '## Questions as git commands' in text, 'README has no "## Questions as git commands" table'
         start = text.index('## Questions as git commands')
         end = text.find('\n## ', start + 1)
@@ -154,7 +160,7 @@ def main():
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every law commit', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check('Lexifina writes only documentation and layout', s.lexifina)
     s.check('README commands run', s.readme)
     ok = all(r[1] for r in s.results)
     print(f'{sum(r[1] for r in s.results)}/{len(s.results)} passed')
