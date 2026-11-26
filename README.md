@@ -13,7 +13,7 @@ En del af [lexifina/global-law](https://github.com/lexifina/global-law), én git
 
 **Hvad der er her nu:** 2023 tekster fra Nalunaarutit, Grønlands officielle lovsamling: 934 grønlandske love, forordninger og bekendtgørelser (fra 1979), 874 danske love, anordninger og bekendtgørelser for Grønland (Rigslovgivning) og 215 traktater; 135 lovbekendtgørelser, 569 ændringslove på deres ikrafttrædelsesdag og 294 ophævelser. Kirkeloven (`kirken/`) og havneafgiftsloven (`havneafgift/`) er genskabt ændring for ændring. [`acts.csv`](acts.csv) viser hver mappe; [`held.csv`](held.csv) hvad der er udeladt og hvorfor.
 
-Hver lov er en mappe, `havneafgift/` og `kirken/`, og hver paragraf er én fil: `havneafgift/par-012.md` er § 12 i havneafgiftsloven, `kirken/par-026a.md` § 26 a i kirkeloven. Hver mappes `README.md` viser dens paragraffer og hvor ofte hver af dem er ændret.
+Hver lov er en mappe (`landstingslov-1979-5/`, `rigslovgivning/lov-2025-1766/`, `havneafgift/`, `kirken/`), og hver paragraf er én fil: `havneafgift/par-012.md` er § 12 i havneafgiftsloven, `kirken/par-026a.md` § 26 a i kirkeloven. Hver mappes `README.md` viser dens paragraffer og hvor ofte hver af dem er ændret.
 
 Teksten er på dansk, som Grønlands Selvstyre udgiver den i Nalunaarutit. Den grønlandske tekst, som Selvstyret også udgiver, og en engelsk oversættelse indgår ikke i dette materiale.
 
